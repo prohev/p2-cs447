@@ -1,0 +1,9 @@
+From: Christian M. Schürch@www.nature.com
+Newsgroups: sci.general
+Subject: Liver cancer recurrence predicted by immune-cell location and gene expression
+Date: Tue, 11 Mar 2025 19:00:00 -0500
+Message-ID: <cjR6dF@www.nature.com>
+Author: Christian M. Schürch
+
+
+                <p>Nature, Published online: 12 March 2025; <a href="https://www.nature.com/articles/d41586-025-00734-8">doi:10.1038/d41586-025-00734-8</a></p>Immune cells called natural killer cells can target and eliminate tumours. The gene expression and spatial distribution of the immune cells in the tumour microenvironment indicates whether liver cancer will recur after surgery.

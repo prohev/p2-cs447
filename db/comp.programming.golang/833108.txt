@@ -1,0 +1,8 @@
+From: /u/nicolashery@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Decoding JSON sum types in Go without panicking
+Date: Fri, 14 Mar 2025 12:17:25 -0500
+Message-ID: <wXeiAH@www.reddit.com>
+Author: /u/nicolashery
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/nicolashery"> /u/nicolashery </a> <br/> <span><a href="https://nicolashery.com/decoding-json-sum-types-in-go/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jb95ui/decoding_json_sum_types_in_go_without_panicking/">[comments]</a></span>

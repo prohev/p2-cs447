@@ -1,0 +1,8 @@
+From: /u/rvalue@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: Resource for Learning Clang Libraries — Lecture Slides and Code Examples (Version 0.3.0)
+Date: Sat, 08 Mar 2025 15:02:25 -0600
+Message-ID: <tBMtMN@www.reddit.com>
+Author: /u/rvalue
+
+<!-- SC_OFF --><div class="md"><p><a href="https://discourse.llvm.org/t/learning-resource-lecture-slides-for-the-clang-libraries-edition-0-3-0/85057">https://discourse.llvm.org/t/learning-resource-lecture-slides-for-the-clang-libraries-edition-0-3-0/85057</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rvalue"> /u/rvalue </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1j6qw3q/resource_for_learning_clang_libraries_lecture/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j6qw3q/resource_for_learning_clang_libraries_lecture/">[comments]</a></span>

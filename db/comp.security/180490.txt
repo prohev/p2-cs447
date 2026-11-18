@@ -1,0 +1,8 @@
+From: Nate Nelson@threatpost.com
+Newsgroups: comp.security
+Subject: Watering Hole Attacks Push ScanBox Keylogger
+Date: Tue, 30 Aug 2022 11:00:43 -0500
+Message-ID: <Jmb0Bv@threatpost.com>
+Author: Nate Nelson
+
+Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.

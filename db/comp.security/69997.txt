@@ -1,0 +1,13 @@
+From: Bruce Schneier@www.schneier.com
+Newsgroups: comp.security
+Subject: TP-Link Router Botnet
+Date: Fri, 14 Mar 2025 06:02:58 -0500
+Message-ID: <19IN83@www.schneier.com>
+Author: Bruce Schneier
+
+<p>There is a new botnet that is <a href="https://www.tomsguide.com/computing/malware-adware/thousands-of-tp-link-routers-have-been-infected-by-a-botnet-to-spread-malware">infecting</a> TP-Link routers:</p>
+<blockquote><p>The botnet can lead to command injection which then makes remote code execution (RCE) possible so that the malware can spread itself across the internet automatically. This high severity security flaw (tracked as <a href="https://nvd.nist.gov/vuln/detail/cve-2023-1389">CVE-2023-1389</a>) has also been used to spread other malware families as far back as April 2023 when it was used in the <a href="https://www.tomsguide.com/news/android-adb-matryosh-botnet">Mirai botnet</a> malware attacks. The flaw also linked to the Condi and AndroxGh0st malware attacks.</p>
+<p>[&#8230;]</p>
+<p>Of the thousands of infected devices, the majority of them are concentrated in Brazil, Poland, the United Kingdom, Bulgaria and Turkey; with the botnet targeting manufacturing, medical/healthcare, services and technology organizations in the United States, Australia, China and Mexico.</p></blockquote>
+<p><a href="https://www.catonetworks.com/blog/cato-ctrl-ballista-new-iot-botnet-targeting-thousands-of-tp-link-archer-routers/">Details</a>.</p>
+

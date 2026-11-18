@@ -1,0 +1,8 @@
+From: Nate Nelson@threatpost.com
+Newsgroups: comp.security
+Subject: Ransomware Attacks are on the Rise
+Date: Fri, 26 Aug 2022 11:44:27 -0500
+Message-ID: <HirATP@threatpost.com>
+Author: Nate Nelson
+
+Lockbit is by far this summer’s most prolific ransomware group, trailed by two offshoots of the Conti group.

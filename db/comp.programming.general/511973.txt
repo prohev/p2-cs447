@@ -1,0 +1,8 @@
+From: Sagar Batchu@www.infoq.com
+Newsgroups: comp.programming.general
+Subject: Podcast: Engineering Culture and the API Revolution: A Conversation with Sagar Batchu
+Date: Fri, 14 Mar 2025 06:00:00 -0500
+Message-ID: <mgikxG@www.infoq.com>
+Author: Sagar Batchu
+
+<img src="https://res.infoq.com/podcasts/engineering-culture-api-revolution/en/smallimage/engineering-culture-podcast-thumbnail-1741685347623.jpg"/><p>In this podcast, Shane Hastie, Lead Editor for Culture & Methods spoke to Sagar Batchu about building engineering teams in different environments, the transition from individual contributor to leadership roles, the importance of culture and autonomy in organizations, and the implications of AI agents on the future of APIs.</p> <i>By Sagar Batchu</i>

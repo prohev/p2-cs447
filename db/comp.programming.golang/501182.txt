@@ -1,0 +1,8 @@
+From: /u/Healthy-Unit-4965@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Accessibility
+Date: Fri, 14 Mar 2025 12:33:27 -0500
+Message-ID: <L0ygtl@www.reddit.com>
+Author: /u/Healthy-Unit-4965
+
+<!-- SC_OFF --><div class="md"><p>Hi ...</p> <p>I know this may be out of topic, and sorry about that, and it probably will be of interest tof anybody.</p> <p>But today, I have decided to stop learning go.</p> <p>I want a GUI that is accessible, and stick to at least some of the rules for accessibility.</p> <p>Does such a thing exist?</p> <p>Else, goodbye, and goodbye go.</p> <p>I want to add, that if possible i&#39;d rather prefer a gui that isn&#39;t web-based, but a &quot;Real&quot; one.</p> <p>Any ideas is welcome</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Healthy-Unit-4965"> /u/Healthy-Unit-4965 </a> <br/> <span><a href="https://www.reddit.com/r/golang/comments/1jb9jt5/accessibility/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jb9jt5/accessibility/">[comments]</a></span>

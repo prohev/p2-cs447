@@ -1,0 +1,8 @@
+From: /u/tartaruga232@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: C++ modules and forward declarations
+Date: Mon, 10 Mar 2025 04:02:35 -0500
+Message-ID: <dvmvx2@www.reddit.com>
+Author: /u/tartaruga232
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/tartaruga232"> /u/tartaruga232 </a> <br/> <span><a href="https://adbuehl.wordpress.com/2025/03/10/c-modules-and-forward-declarations/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j7ue8o/c_modules_and_forward_declarations/">[comments]</a></span>

@@ -1,0 +1,38 @@
+From: John Gruber@daringfireball.net
+Newsgroups: alt.blogs
+Subject: Simon Willison on the Privacy/Security Risks of Personalized Siri, vis-à-vis Prompt Injection
+Date: Sat, 08 Mar 2025 13:11:03 -0600
+Message-ID: <d0FpuB@daringfireball.net>
+Author: John Gruber
+
+
+<p>Simon Willison:</p>
+
+<blockquote>
+  <p>These new Apple Intelligence features involve Siri responding to
+requests to access information in applications and then performing
+actions on the user’s behalf.</p>
+
+<p>This is the worst possible combination for <a href="https://simonwillison.net/tags/prompt-injection/">prompt
+injection</a> attacks! Any time an LLM-based system has access
+to private data, tools it can call and exposure to potentially
+malicious instructions (like emails and text messages from
+untrusted strangers) there’s a significant risk that an attacker
+might subvert those tools and use them to damage or exfiltrate a
+user’s data.</p>
+
+<p>I published <a href="https://simonwillison.net/2023/Nov/27/prompt-injection-explained/">this piece</a> about the risk of prompt injection
+to personal digital assistants back in November 2023, and nothing
+has changed since then to make me think this is any less of an
+open problem.</p>
+</blockquote>
+
+<p>Prompt injection seems to be a problem that LLM providers can mitigate, but cannot completely solve. They can tighten the lid, but they can’t completely seal it. But with your private information, the lid needs to be provably sealed — an airtight seal, not a “<em>well, don’t turn it upside down or shake it</em>” seal. So a pessimistic way to look at this personalized Siri imbroglio is that Apple cannot afford to get this wrong, but the nature of LLMs’ susceptibility to prompt injection <em>might</em> mean it’s impossible to ever get right. And if it <em>is</em> possible, it will require groundbreaking achievements. It’s not enough for Apple to “catch up”. They have to solve a vexing problem — as yet unsolved by OpenAI, Google, or any other leading AI lab — to deliver what they’ve already promised.</p>
+
+<p>So Apple had promised for this year — <a href="https://daringfireball.net/linked/2025/03/08/apple-pulls-bella-ramsey-ad-that-promoted-vaporware-personalized-siri-feature">and oft promoted</a> — an entire set of features that they not only have now acknowledged will <em>not</em> ship this year, but which they might, in fact, <em>never</em> be able to ship. Makes me wonder how many people inside Apple were voicing these concerns a year ago, and why they lost the debate to start promising these features last June and advertising them in September.</p>
+
+<div>
+<a  title="Permanent link to ‘Simon Willison on the Privacy/Security Risks of Personalized Siri, vis-à-vis Prompt Injection’"  href="https://daringfireball.net/linked/2025/03/08/willison-siri-prompt-injection">&nbsp;★&nbsp;</a>
+</div>
+
+	

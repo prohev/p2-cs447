@@ -1,0 +1,8 @@
+From: /u/mttd@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: Compiling C++ with the Clang API
+Date: Sun, 09 Mar 2025 23:22:09 -0500
+Message-ID: <aoydh9@www.reddit.com>
+Author: /u/mttd
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mttd"> /u/mttd </a> <br/> <span><a href="https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j7qhif/compiling_c_with_the_clang_api/">[comments]</a></span>

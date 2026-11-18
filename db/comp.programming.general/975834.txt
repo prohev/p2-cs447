@@ -1,0 +1,8 @@
+From: Steef-Jan Wiggers@www.infoq.com
+Newsgroups: comp.programming.general
+Subject: Local Development with Workflow Studio for Step Functions
+Date: Wed, 12 Mar 2025 05:00:00 -0500
+Message-ID: <4mnrgn@www.infoq.com>
+Author: Steef-Jan Wiggers
+
+<img src="https://res.infoq.com/news/2025/03/local-dev-aws-step-functions/en/headerimage/generatedHeaderImage-1741338766857.jpg"/><p>AWS has enhanced its Workflow Studio for Step Functions, now integrated into Visual Studio Code via the AWS Toolkit. This allows developers to create and edit state machines locally with intuitive visual tools. Key features include Design and Code modes, localized testing capabilities, and support for ASL definitions, streamlining the development of distributed applications and workflows.</p> <i>By Steef-Jan Wiggers</i>

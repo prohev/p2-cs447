@@ -1,0 +1,8 @@
+From: Ben Thompson@stratechery.com
+Newsgroups: alt.blogs.business
+Subject: Microsoft EOLs Skype, Skype’s Founding, Microsoft’s Skype Charity
+Date: Mon, 03 Mar 2025 06:39:22 -0600
+Message-ID: <R5IeFq@stratechery.com>
+Author: Ben Thompson
+
+Microsoft is pulling the plug on Skype, a service they never should have acquired and on which they spent way too much time and money; I'm still sad.

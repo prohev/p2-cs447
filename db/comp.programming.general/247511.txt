@@ -1,0 +1,8 @@
+From: /u/WorthNo1014@www.reddit.com
+Newsgroups: comp.programming.general, reddit
+Subject: Building a chat application using key-value store pub/sub. No backend required
+Date: Fri, 14 Mar 2025 06:34:03 -0500
+Message-ID: <H55Q2p@www.reddit.com>
+Author: /u/WorthNo1014
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/WorthNo1014"> /u/WorthNo1014 </a> <br/> <span><a href="https://medium.com/@ehsan.aslani/building-your-own-powerful-real-time-chat-application-from-scratch-7079311d014b">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1jb1s85/building_a_chat_application_using_keyvalue_store/">[comments]</a></span>

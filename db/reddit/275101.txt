@@ -1,0 +1,8 @@
+From: /u/IsaqueSA@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: After 9 hours i discovered how to import an library 🥳🎉
+Date: Mon, 10 Mar 2025 16:53:54 -0500
+Message-ID: <uLM1BM@www.reddit.com>
+Author: /u/IsaqueSA
+
+<!-- SC_OFF --><div class="md"><p>I MANAGE TO IMPORT RAYLIB!!!</p> <p>I DONT CARE IF YOU THINK I AM AN BABY, THIS WAS THE BEST HIGH ON PROGRAMING OF THE YEAR</p> <p>I decided to learn c++ because i want to fix an annoying bug in Godot, thats being an problem in my game, but man, i was humbled today, but i did it!</p> <p>for some reason MSYS on windows have 5 editions, and i was using the wrong one :P</p> <p>also, can some one explain why thats?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IsaqueSA"> /u/IsaqueSA </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1j8akpp/after_9_hours_i_discovered_how_to_import_an/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j8akpp/after_9_hours_i_discovered_how_to_import_an/">[comments]</a></span>

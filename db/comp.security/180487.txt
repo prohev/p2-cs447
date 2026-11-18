@@ -1,0 +1,8 @@
+From: Nate Nelson@threatpost.com
+Newsgroups: comp.security
+Subject: Tentacles of ‘0ktapus’ Threat Group Victimize 130 Firms
+Date: Mon, 29 Aug 2022 09:56:19 -0500
+Message-ID: <fLndjO@threatpost.com>
+Author: Nate Nelson
+
+Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.

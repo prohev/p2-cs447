@@ -1,0 +1,8 @@
+From: /u/frolvlad@www.reddit.com
+Newsgroups: comp.programming.python, reddit
+Subject: Quest for devs interested in Python & AI & blockchain
+Date: Thu, 13 Mar 2025 17:11:14 -0500
+Message-ID: <dCnEtC@www.reddit.com>
+Author: /u/frolvlad
+
+<!-- SC_OFF --><div class="md"><p><strong>What My Project Does?</strong></p> <p>My project is a challenge for devs to entertain and try to win a small prize (~120 USD/EUR).</p> <p>Here I&#39;d like to showcase the capabilities of modern blockchains and AI agents through gamification.</p> <p><strong>Target Audience:</strong> just a toy project</p> <p><strong>Comparison</strong></p> <p><a href="https://github.com/near">NEAR Protocol</a> uses Wasm runtime to execute arbitrary code in a controlled environment. NEAR community developed <a href="https://github.com/r-near/near-sdk-py">SDK for Python</a> by compiling MicroPython to Wasm and bundling Python modules into it.</p> <p><a href="https://near.ai">NEAR AI</a> is a free hosting for AI agents.</p> <p>Using this new Python SDK, I developed a simple program (so-called &quot;smart contract&quot;) that protects 50 NEAR tokens until someone finds the solution to the quest, and an AI agent that is also part of the quest.</p> <p>Join it here: <a href="https://github.com/frol/near-devhub-quest-003">https://github.com/frol/near-devhub-quest-003</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/frolvlad"> /u/frolvlad </a> <br/> <span><a href="https://www.reddit.com/r/Python/comments/1jao9tc/quest_for_devs_interested_in_python_ai_blockchain/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Python/comments/1jao9tc/quest_for_devs_interested_in_python_ai_blockchain/">[comments]</a></span>

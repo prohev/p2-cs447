@@ -1,0 +1,9 @@
+From: S. Wehner@www.nature.com
+Newsgroups: sci.general
+Subject: An operating system for executing applications on quantum network nodes
+Date: Tue, 11 Mar 2025 19:00:00 -0500
+Message-ID: <6VZul5@www.nature.com>
+Author: S. Wehner
+
+
+                <p>Nature, Published online: 12 March 2025; <a href="https://www.nature.com/articles/s41586-025-08704-w">doi:10.1038/s41586-025-08704-w</a></p>A new quantum operating system architecture is described that is capable of executing applications on quantum networks in high-level software, which is a step towards bringing quantum network technology to society.

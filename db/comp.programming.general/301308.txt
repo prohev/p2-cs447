@@ -1,0 +1,8 @@
+From: Khawaja Shams@www.infoq.com
+Newsgroups: comp.programming.general
+Subject: Presentation: Dare Mighty Things: What NASA's Endeavors Teach Us About the Power of Calculated RISCs
+Date: Fri, 14 Mar 2025 06:15:00 -0500
+Message-ID: <rEwNHw@www.infoq.com>
+Author: Khawaja Shams
+
+<img src="https://res.infoq.com/presentations/nasa-calculated-risks/en/mediumimage/khawaja-shams-medium-1740573020029.jpeg"/><p>Khawaja Shams explores the essence of calculated risks, discussing why taking these risks, how to identify and mitigate potential downsides, and the characteristics of good risks.</p> <i>By Khawaja Shams</i>

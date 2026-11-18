@@ -1,0 +1,8 @@
+From: /u/CohenArthur@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: gccrs February 2025 Monthly report
+Date: Thu, 13 Mar 2025 09:50:35 -0500
+Message-ID: <5h1AsI@www.reddit.com>
+Author: /u/CohenArthur
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/CohenArthur"> /u/CohenArthur </a> <br/> <span><a href="https://rust-gcc.github.io/2025/03/10/2025-02-monthly-report.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jadqsw/gccrs_february_2025_monthly_report/">[comments]</a></span>

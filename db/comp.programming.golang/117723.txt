@@ -1,0 +1,8 @@
+From: /u/pepiks@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Create command line app using Golang for MacOS with custom icon
+Date: Thu, 13 Mar 2025 15:25:25 -0500
+Message-ID: <Z85y7w@www.reddit.com>
+Author: /u/pepiks
+
+<!-- SC_OFF --><div class="md"><p>I would you like achieve something very easy. I have compiled Golang app, but it has black, standard icon. I want add custom icon to executable file for end user to easy find what to click to run it.</p> <p>I tried find out how do it. First suggestion is use <a href="https://www.nilebits.com/blog/2024/08/create-your-first-mac-app-using-go/">gogio to build app</a>, but it seems more specific <a href="https://gioui.org">GioUI</a> framework oriented. Another way is manually create. Another solution is create manually structure of files and create it to follow <a href="https://graphicsunplugged.com/2023/08/18/creating-a-macos-app-bundle/">MacOS Application bundle</a>.</p> <p>What is the correct solution for this kind of problem? Is any standard for it to folow or tools for use?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pepiks"> /u/pepiks </a> <br/> <span><a href="https://www.reddit.com/r/golang/comments/1jalsus/create_command_line_app_using_golang_for_macos/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jalsus/create_command_line_app_using_golang_for_macos/">[comments]</a></span>

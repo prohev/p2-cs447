@@ -1,0 +1,8 @@
+From: /u/henyssey@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: C++ Skills to Land a Junior/Graduate Role
+Date: Tue, 11 Mar 2025 09:32:15 -0500
+Message-ID: <tQQKKL@www.reddit.com>
+Author: /u/henyssey
+
+<!-- SC_OFF --><div class="md"><p>I really love working with C++, and my current aim is to get some experience with it in a professional environment. I have a bachelors in computer science and am currently studying a computer games programming course. I have worked with Unreal Engine but have worked on both console applications and a game using C++ frameworks.</p> <p>I am currently finding the games job market difficult, and would love to expand my skill set to land some kind of C++ role.</p> <p>Any advice?</p> <p>Edit: When I wrote skills I initially thought of libraries. But if anyone has anything else that&#39;s relevant to suggest, please do</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/henyssey"> /u/henyssey </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1j8s4aa/c_skills_to_land_a_juniorgraduate_role/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j8s4aa/c_skills_to_land_a_juniorgraduate_role/">[comments]</a></span>

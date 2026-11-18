@@ -1,0 +1,8 @@
+From: /u/AutoModerator@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: WTF Wednesday (March 12, 2025)
+Date: Wed, 12 Mar 2025 02:00:39 -0500
+Message-ID: <WBxunS@www.reddit.com>
+Author: /u/AutoModerator
+
+<!-- SC_OFF --><div class="md"><p>Post a link to a GitHub repo or another code chunk that you would like to have reviewed, and brace yourself for the comments!</p> <p>Whether you&#39;re a junior wanting your code sharpened or a senior interested in giving some feedback and have some time to spare to review someone&#39;s code, here&#39;s where it&#39;s happening.</p> <p><a href="https://davidwalsh.name/demo/code-review.png">Named after this comic</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AutoModerator"> /u/AutoModerator </a> <br/> <span><a href="https://www.reddit.com/r/javascript/comments/1j9dyxi/wtf_wednesday_march_12_2025/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j9dyxi/wtf_wednesday_march_12_2025/">[comments]</a></span>

@@ -1,0 +1,8 @@
+From: Ben Thompson@stratechery.com
+Newsgroups: alt.blogs.business
+Subject: An Interview with Tailscale Co-Founder and CEO Avery Pennarun
+Date: Thu, 13 Mar 2025 05:01:53 -0500
+Message-ID: <SlExOZ@stratechery.com>
+Author: Ben Thompson
+
+An interview with Tailscale CEO and co-founder Avery Pennarun about Tailscale, and how he’s been learning to build a New Internet his whole life. 

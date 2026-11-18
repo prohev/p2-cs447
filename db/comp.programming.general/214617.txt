@@ -1,0 +1,8 @@
+From: /u/_Sharp_@www.reddit.com
+Newsgroups: comp.programming.general, reddit
+Subject: bflat: C# with Go-inspired tooling (small, selfcontained, native executables)
+Date: Fri, 14 Mar 2025 13:26:09 -0500
+Message-ID: <urH7I1@www.reddit.com>
+Author: /u/_Sharp_
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/_Sharp_"> /u/_Sharp_ </a> <br/> <span><a href="https://github.com/bflattened/bflat">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1jbakva/bflat_c_with_goinspired_tooling_small/">[comments]</a></span>

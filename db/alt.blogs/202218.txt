@@ -1,0 +1,36 @@
+From: John Gruber@daringfireball.net
+Newsgroups: alt.blogs
+Subject: Apple Pulls Bella Ramsey Ad That Promoted Vaporware Personalized Siri Feature
+Date: Sat, 08 Mar 2025 13:01:53 -0600
+Message-ID: <DmgPfA@daringfireball.net>
+Author: John Gruber
+
+
+<p>Zac Hall, 9to5Mac:</p>
+
+<blockquote>
+  <p>Since last fall, Apple has been marketing the iPhone 16 and Apple
+Intelligence with an unreleased Siri feature. After confirming
+today that the more personal version of Siri isn’t coming anytime
+soon, Apple has pulled the ad in question.</p>
+
+<p>The commercial starred Bella Ramsey who should probably win an
+award for acting like Siri worked.</p>
+
+<p>In <a href="https://x.com/iupdate/status/1898102090846925068">the ad spot</a>, Ramsey sees someone familiar approaching and
+asks Siri the name of the person they had a meeting with the
+previous month at a specific restaurant.</p>
+
+<p>Siri immediately responded with the name presumably based on a
+calendar event, email, or message on Ramsey’s iPhone.</p>
+</blockquote>
+
+<p>I <em>think</em> that was the only TV commercial Apple ran showing the “personalized Siri through App Intents” feature that Apple has now admitted won’t ship in iOS 18, but I saw that commercial a lot during the baseball playoffs and NFL season. (I tend only to see TV commercials while watching sports.) The other Bella-Ramsey–starring Apple Intelligence ads all showcase Apple Intelligence features that are now shipping. But did Apple run other ads (TV, print, billboard) promoting this non-existent feature? I’m wondering what else they might send down the memory hole now that they’re facing reality on these personalized Siri features.</p>
+
+<p>Apple’s product pages for <a href="https://www.apple.com/apple-intelligence/">Apple Intelligence</a>, <a href="https://www.apple.com/ios/ios-18/">iOS 18</a>, and <a href="https://www.apple.com/macos/macos-sequoia/">MacOS 15 Sequoia</a> are lousy with references to these “new era for Siri” features that <a href="https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features">we now know</a> aren’t going to ship this year. This is a marketing fiasco.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Pulls Bella Ramsey Ad That Promoted Vaporware Personalized Siri Feature’"  href="https://daringfireball.net/linked/2025/03/08/apple-pulls-bella-ramsey-ad-that-promoted-vaporware-personalized-siri-feature">&nbsp;★&nbsp;</a>
+</div>
+
+	

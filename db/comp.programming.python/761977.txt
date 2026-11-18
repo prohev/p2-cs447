@@ -1,0 +1,8 @@
+From: /u/Complex-Watch-3340@www.reddit.com
+Newsgroups: comp.programming.python, reddit
+Subject: Matlab's variable explorer is amazing. What's pythons closest?
+Date: Fri, 14 Mar 2025 06:15:29 -0500
+Message-ID: <OmEgWj@www.reddit.com>
+Author: /u/Complex-Watch-3340
+
+<!-- SC_OFF --><div class="md"><p>Hi all, </p> <p>Long time python user. Recently needed to use Matlab for a customer. They had a large data set saved in their native *mat file structure. </p> <p>It was so simple and easy to explore the data within the structure without needing any code itself. It made extracting the data I needed super quick and simple. Made me wonder if anything similar exists in Python?</p> <p>I know Spyder has a variable explorer (which is good) but it dies as soon as the data structure is remotely complex. </p> <p>I will likely need to do this often with different data sets. </p> <p>Background: I&#39;m converting a lot of the code from an academic research group to run in p. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Complex-Watch-3340"> /u/Complex-Watch-3340 </a> <br/> <span><a href="https://www.reddit.com/r/Python/comments/1jb1gzp/matlabs_variable_explorer_is_amazing_whats/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Python/comments/1jb1gzp/matlabs_variable_explorer_is_amazing_whats/">[comments]</a></span>

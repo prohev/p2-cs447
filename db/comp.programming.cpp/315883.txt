@@ -1,0 +1,8 @@
+From: /u/gadgetygirl@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: Bjarne Stroustrup on How He Sees C++ Evolving
+Date: Fri, 07 Mar 2025 10:57:56 -0600
+Message-ID: <hAAAXG@www.reddit.com>
+Author: /u/gadgetygirl
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/gadgetygirl"> /u/gadgetygirl </a> <br/> <span><a href="https://thenewstack.io/bjarne-stroustrup-on-how-he-sees-c-evolving/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j5tgx4/bjarne_stroustrup_on_how_he_sees_c_evolving/">[comments]</a></span>

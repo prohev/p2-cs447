@@ -1,0 +1,8 @@
+From: /u/bakery2k@www.reddit.com
+Newsgroups: comp.programming.python, reddit
+Subject: Python Steering Council rejects PEP 736 – Shorthand syntax for keyword arguments at invocation
+Date: Thu, 13 Mar 2025 17:33:09 -0500
+Message-ID: <01PlXA@www.reddit.com>
+Author: /u/bakery2k
+
+<!-- SC_OFF --><div class="md"><p>The Steering Council has rejected <a href="https://peps.python.org/pep-0736/">PEP 736</a>, which proposed syntactic sugar for function calls with keyword arguments: <code>f(x=)</code> as shorthand for <code>f(x=x)</code>.</p> <p><a href="https://discuss.python.org/t/pep-736-shorthand-syntax-for-keyword-arguments-at-invocation/43432/222">Here&#39;s the rejection notice</a> and <a href="https://www.reddit.com/r/Python/comments/1934p64/pep_736_shorthand_syntax_for_keyword_arguments_at/">here&#39;s some previous discussion of the PEP on this subreddit</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/bakery2k"> /u/bakery2k </a> <br/> <span><a href="https://www.reddit.com/r/Python/comments/1jaorm1/python_steering_council_rejects_pep_736_shorthand/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Python/comments/1jaorm1/python_steering_council_rejects_pep_736_shorthand/">[comments]</a></span>

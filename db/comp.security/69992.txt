@@ -1,0 +1,10 @@
+From: Bruce Schneier@www.schneier.com
+Newsgroups: comp.security
+Subject: China, Russia, Iran, and North Korea Intelligence Sharing
+Date: Wed, 12 Mar 2025 06:09:14 -0500
+Message-ID: <fnHvwC@www.schneier.com>
+Author: Bruce Schneier
+
+<p>Former CISA Director Jen Easterly <a href="https://www.linkedin.com/posts/jen-easterly_could-the-next-five-eyes-be-the-four-activity-7295808854750081025-GcpE">writes</a> about a new international intelligence sharing co-op:</p>
+<blockquote><p>Historically, China, Russia, Iran &#038; North Korea have cooperated to some extent on military and intelligence matters, but differences in language, culture, politics &#038; technological sophistication have hindered deeper collaboration, including in cyber. Shifting geopolitical dynamics, however, could drive these states toward a more formalized intell-sharing partnership. Such a &#8220;Four Eyes&#8221; alliance would be motivated by common adversaries and strategic interests, including an enhanced capacity to resist economic sanctions and support proxy conflicts.</p></blockquote>
+

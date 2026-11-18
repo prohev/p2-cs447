@@ -1,0 +1,8 @@
+From: /u/JustAStrangeQuark@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: How do I use the Read and BufRead APIs in a lexer?
+Date: Fri, 14 Mar 2025 08:42:20 -0500
+Message-ID: <pSst0m@www.reddit.com>
+Author: /u/JustAStrangeQuark
+
+<!-- SC_OFF --><div class="md"><p>I&#39;ve made lexers before, but they always read from a <code>&amp;[u8]</code>. This time, I&#39;m trying to make it have a streaming input, but it seems really messy. What I&#39;m concerned about is the buffer being too small, so do I have to call <code>fill_buf</code> and <code>consume</code> for every byte I read? The main functionality I need is to switch on the current character, peek at the next character, and read ahead until a <code>char</code> predicate is reached. Is there any example code for this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/JustAStrangeQuark"> /u/JustAStrangeQuark </a> <br/> <span><a href="https://www.reddit.com/r/rust/comments/1jb46vc/how_do_i_use_the_read_and_bufread_apis_in_a_lexer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jb46vc/how_do_i_use_the_read_and_bufread_apis_in_a_lexer/">[comments]</a></span>

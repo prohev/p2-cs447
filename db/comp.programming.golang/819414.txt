@@ -1,0 +1,8 @@
+From: /u/timsofteng@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Goose migration folder as SQLC schema source
+Date: Fri, 14 Mar 2025 15:51:06 -0500
+Message-ID: <x11tHc@www.reddit.com>
+Author: /u/timsofteng
+
+<!-- SC_OFF --><div class="md"><p>Hi. I have existed database and I would like to use goose as my migration tool and sqlc as query gen tool. The problem is database has been created without goose and I don&#39;t have history of change in my migration folder. Afaik sqlc cannot work properly without whole history in migration dier. How can I handle it?<br/> Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/timsofteng"> /u/timsofteng </a> <br/> <span><a href="https://www.reddit.com/r/golang/comments/1jbe0g7/goose_migration_folder_as_sqlc_schema_source/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jbe0g7/goose_migration_folder_as_sqlc_schema_source/">[comments]</a></span>

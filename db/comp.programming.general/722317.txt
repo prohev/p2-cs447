@@ -1,0 +1,8 @@
+From: Daniel Dominguez@www.infoq.com
+Newsgroups: comp.programming.general
+Subject: Google Introduces AI Co-Scientist System to Aid Scientific Research
+Date: Wed, 12 Mar 2025 05:11:00 -0500
+Message-ID: <izrTAK@www.infoq.com>
+Author: Daniel Dominguez
+
+<img src="https://res.infoq.com/news/2025/03/google-co-scientist/en/headerimage/generatedHeaderImage-1741191398665.jpg"/><p>Google has announced the development of an AI co-scientist system designed to assist scientists in generating hypotheses and research proposals. Built using Gemini 2.0, the system aims to accelerate scientific and biomedical discoveries by emulating the scientific method and fostering collaboration between humans and AI.</p> <i>By Daniel Dominguez</i>

@@ -1,0 +1,8 @@
+From: /u/dataguzzler@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: Javascript and Python interfacing examples
+Date: Mon, 10 Mar 2025 20:51:25 -0500
+Message-ID: <2OuGlM@www.reddit.com>
+Author: /u/dataguzzler
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/dataguzzler"> /u/dataguzzler </a> <br/> <span><a href="https://github.com/non-npc/Javascript-and-python-interfacing-examples">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j8fs04/javascript_and_python_interfacing_examples/">[comments]</a></span>

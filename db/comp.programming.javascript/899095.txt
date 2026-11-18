@@ -1,0 +1,8 @@
+From: /u/AcrobaticMix6563@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: [AskJS] How much gamification when learning?
+Date: Tue, 11 Mar 2025 17:32:59 -0500
+Message-ID: <lXOA0v@www.reddit.com>
+Author: /u/AcrobaticMix6563
+
+<!-- SC_OFF --><div class="md"><p>I recently released a free course on Generative AI for JavaScript. I wanted to know how much gamification are you ok with? For instance, I&#39;ve added a time travelling narrative, fun images but considering to add a GitHub Pages where things like quests, a main character etc are part of it, so very interactive, how do you feel about that, would you want to learn that way?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AcrobaticMix6563"> /u/AcrobaticMix6563 </a> <br/> <span><a href="https://www.reddit.com/r/javascript/comments/1j93oyl/askjs_how_much_gamification_when_learning/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j93oyl/askjs_how_much_gamification_when_learning/">[comments]</a></span>

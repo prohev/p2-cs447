@@ -1,0 +1,8 @@
+From: /u/knudtsy@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: Rust jobs for DevOps + SRE
+Date: Thu, 13 Mar 2025 19:45:26 -0500
+Message-ID: <Hmq88d@www.reddit.com>
+Author: /u/knudtsy
+
+<!-- SC_OFF --><div class="md"><p>I’m a DevOps/Infra/Platform engineer, and I vastly prefer using Rust to other languages. I haven’t seen any Rust jobs in this specialization, most of the time they list Python as a requirement.</p> <p>For someone in this space who doesn’t enjoy using Python and would prefer to use Rust, what would you recommend doing for finding a job? Is it time to change specializations?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/knudtsy"> /u/knudtsy </a> <br/> <span><a href="https://www.reddit.com/r/rust/comments/1jarlta/rust_jobs_for_devops_sre/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jarlta/rust_jobs_for_devops_sre/">[comments]</a></span>

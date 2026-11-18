@@ -1,0 +1,8 @@
+From: /u/IzonoGames@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: Learning Rust through the book
+Date: Fri, 14 Mar 2025 16:56:16 -0500
+Message-ID: <Sb5afe@www.reddit.com>
+Author: /u/IzonoGames
+
+<!-- SC_OFF --><div class="md"><p>Hi guys, first of all pardon my english. I&#39;m learning Rust through The Rust Programming Language book. Now there are some execirses that the book recommends you to do (for example at the end of chapter 3),</p> <p><a href="https://preview.redd.it/tl9kyx178qoe1.png?width=921&amp;format=png&amp;auto=webp&amp;s=63b7e97152d54afe5b8b3b68bad99e2177f67fe9">https://preview.redd.it/tl9kyx178qoe1.png?width=921&amp;format=png&amp;auto=webp&amp;s=63b7e97152d54afe5b8b3b68bad99e2177f67fe9</a></p> <p>Where can I see examples of these exercises solved? There&#39;s probably a lot of public repositories from where I can find the code, but is there something like &quot;this is the repository&quot; where people go for comparing their solutions to the solutions that are there? Where you can be certain that there are all of the exercises and that the code works.</p> <p>Also, as an extra question. Would you guys recommend me to do rustlings and rust by example? Or is the book + exercises enough?</p> <p>Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/IzonoGames"> /u/IzonoGames </a> <br/> <span><a href="https://www.reddit.com/r/rust/comments/1jbfi5f/learning_rust_through_the_book/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jbfi5f/learning_rust_through_the_book/">[comments]</a></span>

@@ -1,0 +1,8 @@
+From: Aditya Kulkarni@www.infoq.com
+Newsgroups: comp.programming.general
+Subject: Grafana Loki Introduces v3.4 with Standardized Storage and Unified Telemetry
+Date: Wed, 12 Mar 2025 10:00:00 -0500
+Message-ID: <l4pVjC@www.infoq.com>
+Author: Aditya Kulkarni
+
+<img src="https://res.infoq.com/news/2025/03/grafana-loki-updates/en/headerimage/generatedHeaderImage-1741756614901.jpg"/><p>Grafana Loki recently introduced their version 3.4, which includes enhancements aimed at improving the efficiency and log management standardization. One of the key updates is the integration of the Thanos Object Storage Client, which aligns Loki's storage configuration with other Grafana databases, such as Mimir and Pyroscope.</p> <i>By Aditya Kulkarni</i>

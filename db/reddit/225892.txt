@@ -1,0 +1,8 @@
+From: /u/amjadsh97@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: [AskJS] Struggled with a Tic-Tac-Toe Task in a React Interview—How Can I Improve?
+Date: Wed, 12 Mar 2025 14:32:08 -0500
+Message-ID: <TVYOcx@www.reddit.com>
+Author: /u/amjadsh97
+
+<!-- SC_OFF --><div class="md"><p>I recently had a React.js interview where I was asked to build a <strong>Tic-Tac-Toe game</strong>. I started fine, but midway through, I got confused and couldn&#39;t continue. I think part of the issue is that I rely too much on AI for coding help, which affected my ability to solve the problem independently.</p> <p>I want to improve my <strong>problem-solving skills</strong> and get better at <strong>frontend coding challenges</strong> like this. How can I practice effectively to gain confidence in interviews?</p> <p>Any tips on <strong>structuring my approach</strong>, breaking down problems, or resources to improve my <strong>React/JavaScript fundamentals</strong> would be greatly appreciated!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/amjadsh97"> /u/amjadsh97 </a> <br/> <span><a href="https://www.reddit.com/r/javascript/comments/1j9sncu/askjs_struggled_with_a_tictactoe_task_in_a_react/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j9sncu/askjs_struggled_with_a_tictactoe_task_in_a_react/">[comments]</a></span>

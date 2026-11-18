@@ -1,0 +1,8 @@
+From: /u/comfortablynick@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: Making a Quartiles word game solver in Rust
+Date: Fri, 14 Mar 2025 11:23:03 -0500
+Message-ID: <uCMlfF@www.reddit.com>
+Author: /u/comfortablynick
+
+<!-- SC_OFF --><div class="md"><p>Hello!</p> <p>I&#39;m addicted to the Apple News game Quartiles, where you combine parts of words to make as many combinations as possible. A word could be up to four parts. I made a solver in Python but am curious to try it in Rust as well.</p> <p>Here is a <a href="https://gist.github.com/comfortablynick/20319655af2873a7f912576dff806506">gist</a> which shows my Python script, the source from Quartiles, and the output. The <code>dictionary.txt</code> file is just a wordlist I found online. The output has extra words that aren&#39;t valid solutions in Quartiles, but that&#39;s a different issue. It has found all the correct answers so far.</p> <p>Can anyone point me in the right direction of most efficient way to find all the permutations (if that&#39;s the right word) of word parts and then check if it&#39;s a valid word? The Python script is pretty fast (runs in about 60ms on my M3 MacBook Pro) but I&#39;m curious if Rust can do it even faster.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/comfortablynick"> /u/comfortablynick </a> <br/> <span><a href="https://www.reddit.com/r/rust/comments/1jb7v3w/making_a_quartiles_word_game_solver_in_rust/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jb7v3w/making_a_quartiles_word_game_solver_in_rust/">[comments]</a></span>

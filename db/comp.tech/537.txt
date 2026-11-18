@@ -1,0 +1,588 @@
+From: Verge Staff@www.theverge.com
+Newsgroups: comp.tech
+Subject: All the smart home news, reviews, and gadgets you need to know about
+Date: Fri, 14 Mar 2025 14:34:16 -0500
+Message-ID: <ZlsMPc@www.theverge.com>
+Author: Verge Staff
+
+
+											
+
+						
+<figure>
+
+<img alt="" data-caption="" data-portal-copyright="Photo by Jennifer Pattison Tuohy / The Verge" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24423300/236527_Matter_smart_plugs_JTuohy_0007.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" />
+	<figcaption></figcaption>
+</figure>
+<p>The smart home holds so much promise. It can make life more convenient with <a href="https://www.theverge.com/23156554/smart-bulbs-switch-lighting-guide-how-to">lights</a> that turn on as you walk in a room, doors that <a href="https://www.theverge.com/23393163/best-smart-door-lock">unlock as you approach</a>, and robots that <a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner">clean your floors</a>. It can also make your home safer, more energy efficient, and even a little more fun. (Have you tried asking Alexa to beam you up?)</p>
+
+<p>But for all its benefits, the smart home can be complicated, confusing, and <a href="https://www.theverge.com/24009519/hue-bridge-matter-upgrade-problems">occasionally maddening</a>. It&rsquo;s also hard to keep up with all the changes. New gadgets are arriving daily, new features come to old products, and there are <em>so many</em> different ways to turn on a smart light bulb.</p>
+
+<p>If you need a guide, that&rsquo;s what I&rsquo;m here for.</p>
+
+<p>Here, I&rsquo;ll be posting the latest smart home reviews, guides, news, and opinions on everything happening in the connected home. Follow this page to stay updated on what Apple, Amazon, Samsung, Google, and Home Assistant and the rest are doing with their <a href="https://www.theverge.com/23751295/smart-home-platform-google-amazon-apple-samsung">smart home platforms</a>. I&rsquo;ll keep you in the loop on all the newest technologies &mdash; including <a href="https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung">Matter</a>, <a href="https://www.theverge.com/23820078/matters-biggest-problem-apple-google-thread-border-router-interoperability">Thread</a>, <a href="https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage">Sidewalk</a>, <a href="https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024">UWB</a> &mdash; as well as the old favorites. And, of course, I&rsquo;ll cover all the news on the latest gadgets and the biggest releases around tech for your home.</p>
+<ul>
+					<li>
+				<a href="https://www.theverge.com/news/630049/amazon-echo-discontinues-do-not-send-voice-recording-setting">Amazon is ending the option to not send Echo voice recordings to the cloud</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/smart-home/628900/irobot-roomba-reinvention-pushes-out-invention">These new Roombas aren’t the robots I know and love </a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/628324/home-assistant-now-officially-supports-matter-smart-home-standard">Home Assistant makes it official.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/628050/irobot-roomba-future-in-doubt">iRobot tells investors its future is in doubt</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/627751/irobot-launches-eight-new-roombas-with-lidar-room-mapping">iRobot launches eight new Roombas and finally adds lidar mapping</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner">The best robot vacuums</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/625228/abode-security-system-gets-apple-tv-app">You can now control your Abode security system from your Apple TV.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/622308/ikea-matter-thread-temperature-humidity-sensor-timmerflotte">Ikea registered a Matter-over-Thread temperature sensor with the FCC</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/amazon-alexa/622172/amazon-alexa-plus-panos-panay-interview">With Alexa Plus, Amazon finally reinvents its best product</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/621592/alexa-plus-is-much-easier-to-chat-with">Alexa Plus is much easier to chat with.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/618851/eve-launches-matter-over-thread-dimmer-switch">Eve adds a Matter over Thread dimmer switch.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/618385/what-to-expect-amazon-february-alexa-event">What to expect from Amazon’s big Alexa event this week</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/617248/skylight-doubled-its-subscription-price-after-we-published-our-review">Skylight just doubled its subscription price.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/615975/tado-smart-thermostat-tests-app-fee">This smart thermostat company is considering charging users for its app</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/reviews/615523/skylight-calendar-max-sidekick-ai-assistant-review">Skylight Calendar Max review: a game-changer for busy parents </a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/614595/amazon-ring-outdoor-cam-plus-security-2k-video">Ring&#8217;s new security camera supports 2K video out of the box</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/615019/eufy-familock-s3-max-video-smart-lock-price-release-date-features">This smart video lock unlocks with a wave of your hand</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/613611/thermomix-tm7-announcement-smart-kitchen">Get a look at this stunner.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/611101/apple-smart-home-robot-humanoid-rumors">Apple’s smart home robot could actually be a lamp.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/607663/apple-smart-home-robot-research-video">This Pixar-style dancing lamp hints at Apple&#8217;s future home robot</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/smart-home/607470/smart-appliances-expiration-date-security-updates-consumer-reports-survey">Here’s why your smart fridge needs an expiration date</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/news/606916/amazon-event-hidden-message-alexa">There’s a hidden message in Amazon’s event invites</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/smart-home/603957/uwb-hands-free-unlocking-schlage-aliro-apple-samsung-hands-on">I tried the tech that makes hands-free smart locks actually work</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/24/24350329/matter-plans-to-fix-your-home-wi-fi">Matter plans to fix your home Wi-Fi.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/24/24350979/apple-shares-another-use-for-that-thread-radio-in-your-iphone">Here’s another use for that Thread radio in your iPhone.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/24/24350969/mmwave-tech-is-set-to-take-motion-sensing-to-the-next-level-in-the-smart-home">mmWave tech is set to take motion sensing to the next level in the smart home.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/24349390/matter-csa-thread-group-wifi-alliance-interview-2025">Matter will be better in 2025 — say the people who make it</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/22/24348688/zigbee-ambient-sensing-philips-hue-ivani-sensify">Here’s the tech that could turn millions of Zigbee light bulbs into motion sensors with a single update</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/21/24348653/these-poe-smart-shades-are-the-first-to-work-with-matter">These POE smart shades are the first to work with Matter.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/16/24345086/you-can-now-control-your-lg-appliances-with-homey">You can now control your LG appliances with Homey.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/15/24344315/google-home-app-nest-protect-support">The Google Home app will soon support the Nest Protect</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/12/24340818/robot-vacuum-innovations-roborock-dreame-ecovacs-ces2025">Robot vacuums just keep growing</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/10/24341048/this-mechanical-keyboard-can-control-your-smart-home">This mechanical keyboard can control your smart home.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/10/24340795/nanoleaf-brought-smart-lighting-for-the-face-to-ces">Nanoleaf brought smart lighting for the face to CES.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/8/24338956/dreame-robot-vacuum-legs-arm-tools">This robovac has an arm — and legs, too</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/23393163/best-smart-door-lock">The best smart locks you can buy right now</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop">The best budget robot vacuums</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/7/24338231/lg-aerocattower-air-purifier-cat-tower">This cat tree is also an air purifier</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/7/24338203/lgs-new-smart-speaker-has-heart-eyes">LG’s new smart speaker has heart eyes.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/7/24338185/yes-im-taking-a-picture-of-vee-with-a-door-lock">Yes, I’m taking a picture of Vee with a door lock.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/7/24334496/narwal-flow-mopping-robovac-ces-2025">Narwal’s latest mopping robovac keeps corners clean</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24325898/eufy-e20-robot-vacuum-robovac-handheld-price">Eufy’s new robovac transforms into a handheld vacuum</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24328271/eureka-j15-max-ultra-wet-spills-price-ces-2025">Eureka’s new robot vac can tackle wet messes</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24337845/lgs-side-table-grow-light-is-also-a-speaker">LG’s side table grow light is also a speaker.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24337114/dreame-x50-ultra-robot-vacuum-climb-steps-legs-price-ces">This robot vacuum has legs</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24334575/lockly-styla-smart-door-lock-handle-video-doorbell-price">This $700 door handle has an entire security suite built in</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24335357/pawport-smart-dog-door-rbg-lighting-price-ces">Oh yeah, that’s a smart dog door with custom RGB lighting</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24335947/lifx-luna-smart-lamp-matter-wifi-price-release-date-ces">Lifx made its first smart lamp</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24337124/bird-buddy-wonder-petal-camera-track-plants-insects-ces-2025">Bird Buddy’s new camera tracks plants and insects in your garden</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24335022/ecobee-essential-thermostat-price-ces-2025">Ecobee launches an even cheaper smart thermostat</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24337209/this-smart-crib-can-tell-when-your-baby-poops">This smart crib can tell when your baby poops.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24330536/flic-duo-smart-button-price-release-date-ces-2025">This tiny button pulls off the wall and controls your lights and music with gestures</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24334059/aqara-smart-home-touchscreen-controller-ces-2025">Aqara’s new seven-inch home control tablet can replace a light switch</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24334060/aqara-doorbell-camera-hub-g410-smart-home-hub-ces">This sleek doorbell camera is also a smart home hub</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24334151/shelly-wall-display-x2-ces-2025">This big ol’ smart display fits right into an electrical box and controls your home</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24337076/honeywell-home-x2s-smart-thermostat-matter-price">Honeywell Home’s first Matter thermostat costs just $80</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24335223/schlage-sense-pro-smart-deadbolt-uwb-matter-thread-ces">Schlage’s sleek new smart lock ditches keys for UWB</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24333253/ring-kidde-smart-smoke-alarm-price-release-date-specs">Ring is making a smart smoke alarm</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24333828/ring-floodlight-spotlight-cam-pro-2k-video-upgrade">Ring is upgrading its outdoor cameras with 2K resolution (even if you already own them)</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24335351/kami-fall-detect-camera-ai-vision">This home security camera can also monitor for falls and call for help</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24336041/the-home-depot-made-a-smart-air-conditioner">The Home Depot made a smart air conditioner.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24336783/ultraloqs-uwb-powered-smart-lock-will-cost-400">Ultraloq’s UWB-powered smart lock will cost $400.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24332271/xthings-ulticam-dot-iq-floodlight-ai-security-cameras">This portable security camera has a week of free cloud recording</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24336895/tapo-palmkey-door-lock-announced-one-year-battery">Tapo’s palm-scanning door lock promises a full year of battery life</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24336942/tapo-hybridcam-duo-security-camera-wide-plus-zoom">This outdoor security cam adds a second camera that moves and zooms</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/6/24336570/apple-google-samsung-accept-matter-certification">Apple, Google, and Samsung will accept Matter certification of smart home products</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/5/24336857/this-adorable-smart-camera-watches-wildlife-not-lowlifes">This adorable smart camera watches wildlife, not lowlifes.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/5/24335014/aiper-irrisense-smart-irrigation-sprinkler-price-ces">Aiper’s smart sprinkler limits its spray to a map of your lawn</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/5/24335986/lutrons-new-smart-shades-cost-under-400">Lutron’s new smart shades cost under $400.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/5/24328082/switchbot-video-doorbell-display-lock-ultra-ces-2025">SwitchBot’s new video doorbell comes with an in-home display</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/5/24333438/switchbot-multitasking-household-robot-k20-plus-pro-price-specs-release-date">SwitchBot is bringing a Rosie the Robot wannabe to CES</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/5/24332998/roborock-saros-z70-robot-vacuum-omnigrip-arm">This robovac has an arm that can pick up your dirty laundry</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/5/24335856/ecoflow-oasis-smart-home-energy-management-system">EcoFlow’s Oasis could be a powerful tool for simplifying your home’s energy use</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/2/24334411/samsung-instacart-smart-fridge-partnership">Samsung’s smart fridges will use AI to suggest groceries to buy on Instacart</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2025/1/2/24332848/speakers-matter-smart-home-apple-google-amazon-legato">Matter speakers are coming to stream music and tell you when the wash is done</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/19/24325101/home-assistant-voice-preview-edition-smart-home-voice-assistant-hardware">Home Assistant’s new voice assistant answers to ‘Hey Jarvis’</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/18/24324264/homey-pro-mini-price-specs-release-date">Homey launches a $200 smart home hub</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/18/24324097/shelly-wave-zwave-long-range-smart-plug-availability">This Z-Wave smart plug can work over a mile from your house</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/17/24323439/irobot-founder-home-robot-familiar-machines-magic">iRobot’s founder is working on a new kind of home robot</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/24322643/nest-learning-thermostat-4th-gen-review">Nest Learning Thermostat review: pretty smart</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/13/24320673/gemini-google-assistant-available-nest-smart-speakers">A Gemini-boosted Google Assistant is now available on some Nest speakers</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/11/24318680/homey-lg-smart-home-energy-management-features">Homey adds new energy management features and a dongle</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/11/24318037/samsungs-music-sync-is-getting-a-deeper-integration-with-youtube-music">Samsung’s Music Sync is getting a deeper integration with YouTube Music.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/10/24317997/this-startup-is-trying-to-disrupt-your-fridge">This startup is trying to disrupt your fridge.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/23568091/matter-compatible-devices-accessories-apple-amazon-google-samsung">Every smart home device that works with Matter</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/5/24314038/homeys-new-dashboards-look-sweet">Homey’s new dashboards look sweet.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/5/24313941/meross-matter-smart-thermostat-release-date-price-specs">This new smart thermostat from Meross works with Matter</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/5/24313938/ikea-ios-android-home-smart-app-lights-dirigera-adaptive-lighting">Ikea’s smart lights can now automatically adjust throughout the day</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/4/24313173/level-extends-its-matter-upgrade-to-its-bolt-smart-lock">Level extends its Matter upgrade to its Bolt smart lock.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/3/24312349/tp-links-tapo-released-a-30-matter-outlet-with-energy-monitoring">Tapo’s $30 smart outlet works with Matter and keeps track of electricity usage.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/3/24312078/eve-android-app-launches-eve-thermo-thread-matter">Eve’s new app unlocks more smart features for Android users</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/12/3/24311885/apple-homekit-robot-vacuums-delayed-2025">Apple Home support for robot vacuums has been delayed to 2025</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/24306780/black-friday-best-deals-smart-home-tech-2024-cyber-monday">The best Cyber Monday smart home deals</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/24306781/black-friday-2024-best-deals-robot-vacuums-mops-roombas-cyber-monday">The best Cyber Monday robot vacuum deals you can get from iRobot, Roborock, and more</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/26/24306695/ecobee-thermostats-are-getting-a-new-energy-management-feature">Ecobee thermostats are getting a new energy management feature.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/22/24302381/apple-smart-display-homepad-smart-home-control">Apple’s first smart display needs to make the smart home just work</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/20/24301489/amazon-echo-show-21-smart-display-price-specs-release-date">Amazon’s new Echo Show 21 has a huge screen and built-in smart home hub</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/20/24301416/flics-hub-is-now-a-scriptable-matter-controller">Flic’s hub is now a scriptable Matter Controller</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/19/24300764/amazon-partnership-uber-ticketmaster-smarter-alexa">Alexa may get smarter with more APIs rather than more AI</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/15/24296766/levels-latest-lock-supports-matter-over-thread">Level’s latest lock supports Matter over Thread.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/12/24294879/some-of-google-homes-gemini-powered-features-are-arriving-this-week">Some of Google Home’s Gemini-powered features are arriving this week.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/12/24294508/apple-home-camera-smart-security-camera-2026">Apple could launch a smart security camera in 2026</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/12/24293548/nuki-smart-lock-ultra-release-date-specs">This tiny smart lock promises to unlock your door in under two seconds</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/7/24290252/blink-sync-module-xr-outdoor-4-security-camera-range-extender">Blink’s newest hub takes its security cameras beyond Wi-Fi</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/11/7/24289972/matter-smart-home-standard-1-4-spec-new-features-device-types">Matter 1.4 tries to set the smart home standard back on track</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/31/24284772/amazon-new-alexa-llm-voice-assistant-delayed-2025">Amazon’s new Alexa has reportedly slipped to 2025</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/23/24277515/eero-outdoor-7-wifi-outdoor-access-point-price-release-date-specs">Eero’s new product takes Wi-Fi beyond your walls</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/22/24276776/ecobee-yale-august-smart-lock-doorbell-partnership">Now you can unlock your door from Ecobee’s app</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/21/24273662/kwikset-halo-select-new-smart-lock-matter-thread-wifi">Kwikset takes a smart approach with its new smart lock</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/8/24264721/amazon-prime-day-best-smart-home-deals-sale-october-robot-vacuum">The best Prime Day smart home deals we found</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/9/24265564/ring-ai-smart-video-search-security-camera-price-availability">Ring’s video history search is super handy for tracking my cat</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/3/24261376/samsung-smartthings-becomes-the-first-platform-to-support-matter-1-3">Samsung SmartThings becomes the first platform to support Matter 1.3.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/3/24261118/samsung-digital-home-key-smart-door-lock-aliro-uwb">Samsung is turning your Galaxy phone into a smart door key</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/2/24259779/ring-24-7-continuous-recording-smart-security-cameras">Ring is finally adding 24/7 recording to its security cameras</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features">Sleep Number’s newest smart bed aims to tackle night sweats</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/10/1/24258709/samsung-smartthings-ashley-furniture-smart-home-shopping">Samsung is partnering with Ashley Furniture to sell you on the smart home</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/30/24258344/smart-glass-door-feather-river-hubspace-home-depot">This smart front door can go from clear to opaque with a voice command</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/26/24255217/eufycam-s3-pro-smart-security-camera-night-vision-apple-home">This Eufy security camera can show nighttime as if it were daytime</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/24/24252584/arlo-secure-5-cameras-recognize-people-vehicles">Arlo cameras can now recognize people and vehicles</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/24/24253011/home-assistant-reminds-everyone-that-z-wave-is-still-relevant">Home Assistant reminds everyone that Z-Wave is still relevant.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/23/24252346/apparently-remarkable-alexa-cant-reliably-turn-on-the-lights">Apparently, “Remarkable Alexa” can’t reliably turn on the lights.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/23/24252165/google-smart-home-panel-comes-to-all-google-tvs">Google is bringing its smart home panel to all Google TV devices</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/23/24250684/google-tv-streamer-4k-review-smart-home-hub">Google TV Streamer review: smarter than your average set-top box</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/18/24246581/ios18-matter-smart-home-devices-hub-thread-border-router">Apple now lets you add Matter devices to Apple Home without a hub</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/17/24243714/eufy-smart-lock-e30-matter-thread-apple-home">Eufy’s new smart lock may Matter to Apple Home users</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/16/24243056/lg-thinq-smart-home-platform-thinq-on-hub">LG finally gets serious about the smart home</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/13/24243694/ultraloq-bolt-mission-uwb-matter-smart-lock-apple-home">This is the first smart lock to support ultra wideband</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/12/24241750/level-home-assa-abloy-purchase-smart-lock-aliro">After ditching August, Assa Abloy snaps up another smart lock startup</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/11/24240697/ikea-dirigera-matter-update-available">Ikea’s smart home hub now supports Matter</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/7/24235620/nanoleaf-sense-plus-smart-switch-thread-matter-litewave">Nanoleaf launches a smart switch after eight years of trying</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/7/24238187/samsung-is-putting-a-ring-on-your-smart-home">Samsung is putting a ring on your smart home.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/7/24238180/dreames-concept-robovac-can-climb-small-steps">Dreame’s concept robovac can climb (small) steps.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/6/24237379/i-want-aqaras-touchscreen-smart-home-controls-in-my-home">Aqara’s new touchscreen smart home controls are super slick.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/6/24237376/i-found-a-matter-compatible-fridge-at-ifa-and-its-extra">I found a Matter-compatible fridge at IFA. And it’s extra.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/6/24237368/heres-switchbots-unannounced-new-video-doorbell-solution">Here’s Switchbot’s unannounced new video doorbell solution.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/5/24233728/nanoleaf-blocks-wall-panels-smart-lighting-ifa">Nanoleaf’s new wall panels can show off your plants and Funko Pops</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/5/24236260/nanoleafs-permanent-outdoor-lights-arrive-just-in-time-for-the-holidays">Nanoleaf’s permanent outdoor lights arrive just in time for the holidays.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/5/24236276/philips-hue-nobilia-smart-kitchen-lighting">Philips Hue launches a new smart lighting solution for the kitchen</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/5/24236307/philips-hue-play-sync-box-8k-upgrade-price-release-date">The Philips Hue 8K sync box arrives for $350</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/5/24235776/aqara-voice-mate-h1-voice-control-device">Aqara’s smart home voice control system isn’t always listening</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/4/24235097/thread-1-4-spec-launch-matter-smart-home-problems">The four changes in Thread 1.4 that could fix the protocol</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/9/3/24233534/ifa-tech-show-smart-kitchen-smart-appliances">I’m heading to Berlin to seek solutions for the smart kitchen</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/31/24231740/samsung-food-plus-vision-ai-food-list-management-ifa-2024">With AI food recognition Samsung Food could be the ultimate meal-planning app</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/29/24231371/wyze-ai-search-camera-footage">Wyze’s AI can now search your camera footage so you don’t have to</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/28/24230692/lg-thinq-on-smart-home-hub-ai-voice-assistant">LG’s new smart home hub has a built-in voice assistant</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/28/24230404/brilliant-nextgen-smart-home-company-buyers">Brilliant is back from the brink</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/21/24223639/ring-battery-doorbell-camera-price-release-date-specs">Ring’s budget battery doorbell can now see packages left on your porch</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/15/24220944/tplink-tapo-d225-video-doorbell-camera-review">Tapo’s new flagship doorbell camera does more for less</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/14/24220210/switchbots-tiny-robot-vacuum-gets-some-big-upgrades">SwitchBot’s tiny robot vacuum gets some big upgrades.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/14/24219489/samsung-smartthings-family-care-caregiver-support-launch-price-release-date">Samsung’s new Family Care service helps caregivers monitor loved ones</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/8/24215517/ios-18-homekit-adaptive-lighting-matter-smart-bulbs">Adaptive Lighting is coming to Matter smart lights in Apple Home</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/6/24214561/redesigning-the-nest-learning-thermostat-took-courage">Redesigning the Nest Learning Thermostat took “courage.”</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/6/24213639/google-gemini-intelligence-ai-google-home-nest-aware">Gemini intelligence is coming to Google Home</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/6/24214055/google-tv-streamer-features-price-matter-thread">The Google TV Streamer might be the Apple TV 4K rival we’ve been waiting for</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/6/24214142/aqaras-new-mmwave-presence-sensor-is-cheaper-simpler-and-works-with-matter">Aqara’s new mmWave presence sensor is cheaper, simpler, and works with Matter.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/2/24211852/consumer-reports-is-naming-and-shaming-smart-home-companies-without-proper-security-vulnerability-re">Consumer Reports is naming and shaming smart home companies without proper security vulnerability reporting.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/8/1/24211149/meross-has-a-new-mmwave-presence-sensor-for-just-36-and-it-works-with-matter">Meross has a new mmWave presence sensor for just $36, and it works with Matter.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/24207052/amazon-alexa-echo-spot-review">Echo Spot review: this smart alarm clock hits a sweet spot</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/29/24209161/logitech-circle-view-doorbell-still-available">Logitech’s Circle View Doorbell is safe&#8230; for now</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/29/24208782/adt-google-nest-smart-security-system-yale-assure-door-lock">ADT’s new smart security system will unlock your door for a Trusted Neighbor</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/26/24206371/nest-hello-doorbell-google-home-app-new-features">Google brings Nest Hello support to the Home app</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/24/24205675/amazon-discontinue-echo-dot-with-clock">Amazon is discontinuing my favorite Echo — the one with a dot-matrix clock</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/24/24205541/google-nest-learning-thermostat-4th-gen-leaks">A new Nest Learning Thermostat might be on the way</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/24/24205120/the-next-philips-hue-play-hdmi-sync-box-will-support-8k">The next Philips Hue Play HDMI Sync Box will support 8K.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/23/24204260/amazon-25-billion-losses-echo-devices-alexa-subscription">Amazon’s paid Alexa is coming to fill a $25 billion hole dug by Echo devices</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/23/24203847/irobot-new-roomba-combo-10-max-robot-vacuum-matter-support">The newest Roomba can wash its own mop and will work with Matter</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/19/24201820/zero-to-100-in-40-seconds-yes-please">Zero to 100 in 40 seconds? Yes, please.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/18/24201057/eves-compact-weather-station-gets-matter-support">Eve’s compact weather station gets Matter support.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/16/24200001/lutrons-latest-diva-deals-with-your-more-dramatic-lighting">Lutron’s latest Diva deals with your more dramatic lighting.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/16/24195063/apple-smart-display-rumors-homepod-ipad">Five futures for Apple’s HomeScreenPod</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/12/24197460/philips-hue-roles-out-a-fix-for-its-matter-related-bug">Philips Hue rolls out a fix for its Matter-related bug.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/11/24196699/first-apple-put-thread-in-the-iphone-and-now-the-smart-home-radio-could-be-coming-to-android-phones">First, Apple put Thread in the iPhone, now the smart home radio could be coming to Android phones.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/24184716/moving-smart-home-tech-setup">How to move a smart home</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/9/24195184/apple-tvs-insight-can-instantly-add-tracks-to-your-apple-music-library">Apple TV’s InSight can instantly add tracks to your Apple Music library.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/9/24195160/if-your-philips-hue-bulbs-have-been-acting-wonky-dont-worry-theres-a-fix-coming">If your Philips Hue bulbs have been acting wonky, don’t worry there’s a fix coming.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/9/24194544/this-is-the-first-retrofit-smart-lock-to-support-apples-home-key">This is the first retrofit smart lock to support Apple’s Home Key.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/8/24194382/amazons-vying-for-a-spot-on-your-bedside-table">Amazon’s vying for a ‘spot’ on your bedside table.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/24191807/ge-profile-opal-2-0-ultra-nugget-ice-maker-review">This is the summer’s coolest new smart kitchen gadget — literally</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/4/24192346/apples-rumored-homepod-with-a-screen-could-arrive-with-apple-intelligence">Apple’s rumored HomePod with a screen could arrive with Apple Intelligence.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/3/24190410/amazon-astro-business-robot-discontinued-refunds">Amazon is bricking its Astro business robots less than a year after launch</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/3/24191422/lg-homey-athom-acquisition-samsung-smartthings">LG buys Homey in a very Samsung SmartThings move</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/2/24190919/this-ice-maker-is-my-familys-new-favorite-smart-gadget">This ice maker is my family’s new favorite smart gadget.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/2/24190933/these-are-the-robot-vacuums-that-will-work-with-matter">These are the robot vacuums that will work with Matter.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/2/24190842/this-smart-leak-detector-can-warn-you-if-your-fish-tank-is-draining">This smart leak detector can warn you if your fish tank is draining.</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/1/24190224/samsung-smartthings-flex-connect-demand-response">Samsung SmartThings takes a step toward a smarter grid</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/7/1/24189785/samsung-smartthings-matter-1-2-support-robot-vacuums">A major SmartThings update brings support for appliances, robot vacuums, and more through Matter</a>
+			</li>
+					<li>
+				<a href="https://www.theverge.com/2024/6/27/24186861/ge-lighting-cync-reveal-undercabinet-fixtures-smart-lights">These smart lights could solve the kitchen cabinet problem</a>
+			</li>
+			</ul>
+						
+									

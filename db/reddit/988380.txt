@@ -1,0 +1,8 @@
+From: /u/LeandroC17@www.reddit.com
+Newsgroups: comp.programming.python, reddit
+Subject: Convert Voice to Text
+Date: Thu, 13 Mar 2025 18:14:46 -0500
+Message-ID: <KlZS0B@www.reddit.com>
+Author: /u/LeandroC17
+
+<!-- SC_OFF --><div class="md"><p>Hi, I hope everything&#39;s going well. I need to convert audio files to text. These would be recordings of my voice, and sometimes conversations with a group of people. Can you recommend any software or advice? I use Manjaro as my operating system. Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LeandroC17"> /u/LeandroC17 </a> <br/> <span><a href="https://www.reddit.com/r/Python/comments/1jappop/convert_voice_to_text/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Python/comments/1jappop/convert_voice_to_text/">[comments]</a></span>

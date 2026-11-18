@@ -1,0 +1,8 @@
+From: Edin Kapić@www.infoq.com
+Newsgroups: comp.programming.general
+Subject: DevProxy 0.25 Improves Configuration Management, Joins .NET Foundation
+Date: Fri, 14 Mar 2025 07:00:00 -0500
+Message-ID: <aQMFDQ@www.infoq.com>
+Author: Edin Kapić
+
+<img src="https://res.infoq.com/news/2025/03/devproxy-025-net-foundation/en/headerimage/header-1741817112844.jpg"/><p>Microsoft has released version 0.25 of DevProxy, an API simulation command-line tool. The new version improves the tool's configuration management and adds a couple of usability features. The project is also added to the .NET Foundation, a non-profit organisation to support the .NET platform ecosystem.</p> <i>By Edin Kapić</i>

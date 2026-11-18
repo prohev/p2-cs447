@@ -1,0 +1,9 @@
+From: Raj Pandya@www.nature.com
+Newsgroups: sci.general
+Subject: Magnetically and optically active edges in phosphorene nanoribbons
+Date: Tue, 11 Mar 2025 19:00:00 -0500
+Message-ID: <AUhW10@www.nature.com>
+Author: Raj Pandya
+
+
+                <p>Nature, Published online: 12 March 2025; <a href="https://www.nature.com/articles/s41586-024-08563-x">doi:10.1038/s41586-024-08563-x</a></p>Phosphorene nanoribbons demonstrate extraordinary magnetic properties, ranging from large internal fields in films to macroscopic alignment in solution, which can be coupled to photoexcitations that localize to the magnetic edge of these ribbons.

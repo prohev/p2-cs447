@@ -1,0 +1,8 @@
+From: Ben Thompson@stratechery.com
+Newsgroups: alt.blogs.business
+Subject: A Google I/O Idea, The Smartphone AI Value Chain, Apple’s Developer Hang-Ups
+Date: Tue, 11 Mar 2025 08:40:53 -0500
+Message-ID: <G2Y19L@stratechery.com>
+Author: Ben Thompson
+
+More on Apple and AI, this time through the lens of Google's point of integration and where Apple should be in response. Plus, why Apple is so hostile to developers.

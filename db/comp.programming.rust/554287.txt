@@ -1,0 +1,8 @@
+From: /u/Psy-Lilulu@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: I have joined the rust cult, made a git like command task tracker because yes
+Date: Fri, 14 Mar 2025 08:04:59 -0500
+Message-ID: <YGPyPh@www.reddit.com>
+Author: /u/Psy-Lilulu
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Psy-Lilulu"> /u/Psy-Lilulu </a> <br/> <span><a href="https://github.com/Miisan-png/rtask">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jb3flh/i_have_joined_the_rust_cult_made_a_git_like/">[comments]</a></span>

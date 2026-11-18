@@ -1,0 +1,8 @@
+From: /u/AlexandraLinnea@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Benchmarking: What You Can't Miss in Go 1.24
+Date: Thu, 13 Mar 2025 04:55:51 -0500
+Message-ID: <1tnyPx@www.reddit.com>
+Author: /u/AlexandraLinnea
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/AlexandraLinnea"> /u/AlexandraLinnea </a> <br/> <span><a href="https://jarosz.dev/code/benchmarking-what-you-cannot-miss-in-go-1.24/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1ja8e7g/benchmarking_what_you_cant_miss_in_go_124/">[comments]</a></span>

@@ -1,0 +1,8 @@
+From: /u/9millionrainydays_91@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: What Go Got Right that Rust Got Wrong
+Date: Fri, 14 Mar 2025 17:08:27 -0500
+Message-ID: <lvz4r7@www.reddit.com>
+Author: /u/9millionrainydays_91
+
+<table> <tr><td> <a href="https://www.reddit.com/r/golang/comments/1jbfs0b/what_go_got_right_that_rust_got_wrong/"> <img src="https://external-preview.redd.it/PNXVkl98XyFCbyP90XamydUdZRtzRxEVjRN7dG1JRIQ.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fe056b93fee61677fe63ddfce95c64d78464092" alt="What Go Got Right that Rust Got Wrong" title="What Go Got Right that Rust Got Wrong" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/9millionrainydays_91"> /u/9millionrainydays_91 </a> <br/> <span><a href="https://blog.cubed.run/what-go-got-right-that-rust-got-wrong-5e0d1c8e951c">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jbfs0b/what_go_got_right_that_rust_got_wrong/">[comments]</a></span> </td></tr></table>

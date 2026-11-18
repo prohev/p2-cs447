@@ -1,0 +1,8 @@
+From: Ben Thompson@stratechery.com
+Newsgroups: alt.blogs.business
+Subject: OpenAI API Updates, Steelmanning the API Business, The Problem With Both
+Date: Wed, 12 Mar 2025 08:54:14 -0500
+Message-ID: <Wp8EH6@stratechery.com>
+Author: Ben Thompson
+
+OpenAI has compelling new updates to their API that should be good for the API business; is that good for OpenAI?

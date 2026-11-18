@@ -1,0 +1,8 @@
+From: /u/espadrine@www.reddit.com
+Newsgroups: comp.programming.general, reddit
+Subject: IO devices and latency
+Date: Fri, 14 Mar 2025 03:26:08 -0500
+Message-ID: <0emrXP@www.reddit.com>
+Author: /u/espadrine
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/espadrine"> /u/espadrine </a> <br/> <span><a href="https://planetscale.com/blog/io-devices-and-latency">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1jaz52l/io_devices_and_latency/">[comments]</a></span>

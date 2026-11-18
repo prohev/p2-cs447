@@ -1,0 +1,8 @@
+From: /u/N0_Cure@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: [AskJS] JavaScript courses for complete regards?
+Date: Fri, 14 Mar 2025 12:19:52 -0500
+Message-ID: <OE7ZEU@www.reddit.com>
+Author: /u/N0_Cure
+
+<!-- SC_OFF --><div class="md"><p>As stated in title. I am looking for a JavaScript course that treats me like I eat paint chips for breakfast and my haircuts involve placing a large mixing bowl on my head. (I have a learning disability, thermonuclear ADHD and am just a complete and utter fool in general).</p> <p>I don’t want:</p> <p>-a random salad of features in no particular order -verbal diarrhea -Explaining features / theories without providing clear, relatable scenarios where I would use this -The entire course is just the teacher showing off -The course requires you to have 20 years of experience in IT and to fully understand everything the instructor is talking about at all times </p> <p>Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/N0_Cure"> /u/N0_Cure </a> <br/> <span><a href="https://www.reddit.com/r/javascript/comments/1jb980s/askjs_javascript_courses_for_complete_regards/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1jb980s/askjs_javascript_courses_for_complete_regards/">[comments]</a></span>

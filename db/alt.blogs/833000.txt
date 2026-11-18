@@ -1,0 +1,52 @@
+From: John Gruber@daringfireball.net
+Newsgroups: alt.blogs
+Subject: Apple Updates iPad Air (M2→M3) and Regular iPad (A14→A16), and Revamps Magic Keyboard for iPad Air
+Date: Tue, 04 Mar 2025 14:01:53 -0600
+Message-ID: <bBGTts@daringfireball.net>
+Author: John Gruber
+
+
+<p>Dan Moren, writing at Six Colors:</p>
+
+<blockquote>
+  <p>The most consequential part of the Air’s update — perhaps the
+<em>only</em> real update — is the M3 processor, which brings with it
+GPU-based capabilities like hardware-accelerated ray tracing and
+video encoding and decoding for ProRes and ProRes RAW.</p>
+
+<p>Otherwise, the Air is basically unchanged: it comes in 11-inch and
+13-inch versions, features the same cameras, battery life, the
+exact same dimensions, and the same accessory compatibility as its
+M2-based predecessor. It even comes in the same colors — Space
+Gray, Blue, Purple, and Starlight — at the same prices starting
+at $599.</p>
+</blockquote>
+
+<p>A true speed-bump update — no big whoop, but it’s good for the platform for devices to get regular speed-bump updates in between major new revisions. The previous M2 iPad Air models only came out in May of last year, <a href="https://daringfireball.net/2024/05/brief_thoughts_and_observations_on_yesterdays_let_loose_ipad_keynote">alongside the M4 iPad Pro models</a>. <a href="https://daringfireball.net/linked/2024/06/06/ipad-air-m2-9-core-gpu">Just like those M2 iPad Air models</a>, these new M3 iPad Airs have 9-core GPUs. The current (not for long?) M3 MacBook Airs are offered with 8- and 10-core GPUs. I presume these 9-core M3 chips used for the iPad Air are <a href="https://www.tomshardware.com/reviews/glossary-binning-definition,5892.html">binned chips</a> that didn’t have 10 good GPU cores?</p>
+
+<blockquote>
+  <p>The new Magic Keyboard for Air is interesting in that it seems to
+meld parts of the older Magic Keyboard with the Magic Keyboard for
+iPad Pro <a href="https://sixcolors.com/post/2024/05/some-hands-on-ipad-event-impressions/">last May</a>. While the new Magic Keyboard includes a
+function row and a larger trackpad like its Pro compatriot, it
+lacks haptics in the trackpad and backlit keys, and it seems to be
+built on the same design of the original silicone exterior instead
+of the new aluminum-based model. But you get some cost savings for
+that: it’s just $269 instead of $299. Also, it only comes in white — black keyboards are for pros, I guess.</p>
+</blockquote>
+
+<p>$269 feels like a crummy deal. The new-from-last-year $299 Magic Keyboard for iPad Pro, with an aluminum top, feels way more than $30 better than the old-style silicone-covered ones like this new Magic Keyboard for iPad Air. It kind of feels like a design failure of some sort that these new iPad Airs can’t use the same Magic Keyboards as the iPad Pros of the same size.</p>
+
+<blockquote>
+  <p>The base iPad’s update is perhaps somewhat more disappointing, as
+that model was introduced in 2022 and its A16 processor will make
+it one of the few current main-line Apple devices — perhaps only — not to support Apple Intelligence.</p>
+</blockquote>
+
+<p>The recently updated iPad Mini (<a href="https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/">October</a>) has an A17 Pro chip, and thus supports Apple Intelligence. But the iPad Mini starts at $500, and the regular iPad still starts at just $350. The just-plain iPad is really the only “budget” device that Apple makes. There are no iPhone or Mac models in that price range.</p>
+
+<div>
+<a  title="Permanent link to ‘Apple Updates iPad Air (M2→M3) and Regular iPad (A14→A16), and Revamps Magic Keyboard for iPad Air’"  href="https://daringfireball.net/linked/2025/03/04/moren-ipad-air-ipad-updates">&nbsp;★&nbsp;</a>
+</div>
+
+	

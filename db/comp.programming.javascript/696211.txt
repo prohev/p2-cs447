@@ -1,0 +1,8 @@
+From: /u/No_Discussion_9586@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: I created an eslint plugin to enforce granular store selectors instead of destructuring
+Date: Wed, 12 Mar 2025 03:57:32 -0500
+Message-ID: <3PgFcS@www.reddit.com>
+Author: /u/No_Discussion_9586
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/No_Discussion_9586"> /u/No_Discussion_9586 </a> <br/> <span><a href="https://www.npmjs.com/package/eslint-plugin-granular-selectors?activeTab=readme">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j9fqim/i_created_an_eslint_plugin_to_enforce_granular/">[comments]</a></span>

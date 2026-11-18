@@ -1,0 +1,8 @@
+From: Ben Linders@www.infoq.com
+Newsgroups: comp.programming.general
+Subject: Learnings from Working with Programming Rules and Guidelines
+Date: Thu, 13 Mar 2025 06:56:00 -0500
+Message-ID: <yaBQOK@www.infoq.com>
+Author: Ben Linders
+
+<img src="https://res.infoq.com/news/2025/03/learnings-programming-rules/en/headerimage/generatedHeaderImage-1739955861658.jpg"/><p>Programming rules and guidelines improve code consistency, but misapplication can lead to poor results. Arne Mertz suggests that software developers selectively adopt rules and guidelines, and document deviations with clear explanations. They can discuss their experiences in communities or during their daily work, to foster collaboration and improve code quality without unnecessary bureaucracy.</p> <i>By Ben Linders</i>

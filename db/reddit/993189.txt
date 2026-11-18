@@ -1,0 +1,8 @@
+From: /u/Headbanger@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Protobuf encoding
+Date: Fri, 14 Mar 2025 05:04:39 -0500
+Message-ID: <Zcxicx@www.reddit.com>
+Author: /u/Headbanger
+
+<!-- SC_OFF --><div class="md"><p>I can&#39;t understand protobuf encoding. I&#39;ve read about how field number, its type and its data are encoded but I couldn&#39;t find any info on how message type is encoded. How does your program know which message type it received and what method to call?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Headbanger"> /u/Headbanger </a> <br/> <span><a href="https://www.reddit.com/r/golang/comments/1jb0fpc/protobuf_encoding/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jb0fpc/protobuf_encoding/">[comments]</a></span>

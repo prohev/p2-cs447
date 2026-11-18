@@ -1,0 +1,8 @@
+From: /u/StartupJeeliz@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: GitHub - WebAR-rocks/WebAR.rocks.train: 6DoF Object Detection and Tracking in JavaScript/WebGL. A neural network is trained in the web browser using a 3D model rendered with ThreeJS. Then, the trained model is used for augmented reality with React Three Fiber. Released under the MIT License.
+Date: Tue, 11 Mar 2025 08:39:35 -0500
+Message-ID: <5oxjLs@www.reddit.com>
+Author: /u/StartupJeeliz
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/StartupJeeliz"> /u/StartupJeeliz </a> <br/> <span><a href="https://github.com/WebAR-rocks/WebAR.rocks.train">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j8qz2i/github_webarrockswebarrockstrain_6dof_object/">[comments]</a></span>

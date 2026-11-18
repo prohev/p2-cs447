@@ -1,0 +1,8 @@
+From: Matt Burgess@www.wired.com
+Newsgroups: comp.tech
+Subject: A New Era of Attacks on Encryption Is Starting to Heat Up
+Date: Fri, 14 Mar 2025 05:00:00 -0500
+Message-ID: <L58gIV@www.wired.com>
+Author: Matt Burgess
+
+The UK, France, Sweden, and EU have made fresh attacks on end-to-end encryption. Some of the attacks are more “crude” than those in recent years, experts say.

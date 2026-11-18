@@ -1,0 +1,8 @@
+From: /u/LauriRossi@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: Rust skills not required but I really like Rust :(
+Date: Thu, 13 Mar 2025 13:54:08 -0500
+Message-ID: <kCAsQO@www.reddit.com>
+Author: /u/LauriRossi
+
+<!-- SC_OFF --><div class="md"><p>I love Rust and would like to spend my evenings getting better at it, but I’m questioning whether it’s worth prioritizing. When I check LinkedIn for job postings in my home country, I rarely see Rust as a required skill — C++ and C seem much more common. How&#39;s it elsewhere? How do you justify your time spent on studying it? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/LauriRossi"> /u/LauriRossi </a> <br/> <span><a href="https://www.reddit.com/r/rust/comments/1jajmdc/rust_skills_not_required_but_i_really_like_rust/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jajmdc/rust_skills_not_required_but_i_really_like_rust/">[comments]</a></span>

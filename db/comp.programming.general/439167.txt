@@ -1,0 +1,8 @@
+From: /u/dtseng123@www.reddit.com
+Newsgroups: comp.programming.general, reddit
+Subject: Linear Algebra in MLIR (Multi-Level Intermediate Representation)
+Date: Fri, 14 Mar 2025 08:13:30 -0500
+Message-ID: <CHMWDd@www.reddit.com>
+Author: /u/dtseng123
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/dtseng123"> /u/dtseng123 </a> <br/> <span><a href="https://vectorfold.studio/blog/linear-algebra">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1jb3loi/linear_algebra_in_mlir_multilevel_intermediate/">[comments]</a></span>

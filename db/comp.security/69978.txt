@@ -1,0 +1,9 @@
+From: Bruce Schneier@www.schneier.com
+Newsgroups: comp.security
+Subject: The Combined Cipher Machine
+Date: Thu, 06 Mar 2025 06:01:32 -0600
+Message-ID: <goWy05@www.schneier.com>
+Author: Bruce Schneier
+
+<p>Interesting <a href="https://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html">article</a>&#8212;with photos!&#8212;of the US/UK &#8220;Combined Cipher Machine&#8221; from WWII.</p>
+

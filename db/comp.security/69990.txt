@@ -1,0 +1,13 @@
+From: Bruce Schneier@www.schneier.com
+Newsgroups: comp.security
+Subject: Silk Typhoon Hackers Indicted
+Date: Tue, 11 Mar 2025 12:14:28 -0500
+Message-ID: <97Fi5v@www.schneier.com>
+Author: Bruce Schneier
+
+<p>Lots of interesting details in <a href="https://www.wired.com/story/us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem/">the story</a>:</p>
+<blockquote><p>The US Department of Justice on Wednesday <a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global">announced</a> the indictment of 12 Chinese individuals accused of more than a decade of hacker intrusions around the world, including eight staffers for the contractor i-Soon, two officials at China&#8217;s Ministry of Public Security who allegedly worked with them, and two other alleged hackers who are said to be part of the Chinese hacker group APT27, or Silk Typhoon, which prosecutors say was involved in the US Treasury breach late last year.</p>
+<p>[&#8230;]</p>
+<p>According to prosecutors, the group as a whole has targeted US state and federal agencies, foreign ministries of countries across Asia, Chinese dissidents, US-based media outlets that have criticized the Chinese government, and most recently the US Treasury, which was breached between September and December of last year. An internal Treasury report <a href="https://www.bloomberg.com/news/articles/2025-01-16/treasury-hackers-focused-on-sanctions-intelligence-report-says">obtained by Bloomberg News</a> found that hackers had penetrated at least 400 of the agency&#8217;s PCs and stole more than 3,000 files in that intrusion.</p>
+<p>The indictments highlight how, in some cases, the hackers operated with a surprising degree of autonomy, even choosing targets on their own before selling stolen information to Chinese government clients. The indictment against Yin Kecheng, who was previously sanctioned by the Treasury Department in January for his involvement in the Treasury breach, quotes from his communications with a colleague in which he notes his personal preference for hacking American targets and how he&#8217;s seeking to &#8216;break into a big target,&#8217; which he hoped would allow him to make enough money to buy a car.</p></blockquote>
+

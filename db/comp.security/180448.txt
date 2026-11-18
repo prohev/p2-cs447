@@ -1,0 +1,8 @@
+From: Elizabeth Montalbano@threatpost.com
+Newsgroups: comp.security
+Subject: iPhone Users Urged to Update to Patch 2 Zero-Days
+Date: Fri, 19 Aug 2022 10:25:56 -0500
+Message-ID: <yfkOvs@threatpost.com>
+Author: Elizabeth Montalbano
+
+Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.

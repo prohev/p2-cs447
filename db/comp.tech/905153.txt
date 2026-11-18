@@ -1,0 +1,14 @@
+From: Beth Mole@arstechnica.com
+Newsgroups: comp.tech
+Subject: US measles outlook is so bad health experts call for updating vaccine guidance
+Date: Fri, 14 Mar 2025 12:07:00 -0500
+Message-ID: <InAqwz@arstechnica.com>
+Author: Beth Mole
+
+
+              <p>With measles <a href="https://www.cdc.gov/measles/about/history.html">declared eliminated from the US in 2000</a> and national herd immunity strong, <a href="https://www.cdc.gov/measles/hcp/vaccine-considerations/index.html">health experts have recommended</a> that American children get two doses of the Measles, Mumps, and Rubella (MMR) vaccine—the first between the ages of 12 and 15 months and the second between the ages of 4 and 6 years, before they start school.</p>
+<p>Before 12 months, vulnerable infants in the US have been protected in part by maternal antibodies early in infancy as well as the immunity of the people surrounding them. But if they travel to a place where population immunity is unreliable, experts recommend that infants ages 6 to 11 months get an early dose—then follow it up with the standard two doses at the standard times, bringing the total to three doses.</p>
+<p>The reason they would need three—and the reason experts typically recommend waiting until 12 months—is because the maternal antibodies infants carry can interfere with the vaccine response, preventing the immune system from mounting long-lasting protection. Still, the early dose provides boosted protection in that 6-to-11-month interval.</p><p><a href="https://arstechnica.com/health/2025/03/collapsing-us-herd-immunity-to-measles-spurs-experts-to-call-for-extra-mmr-dose/">Read full article</a></p>
+<p><a href="https://arstechnica.com/health/2025/03/collapsing-us-herd-immunity-to-measles-spurs-experts-to-call-for-extra-mmr-dose/#comments">Comments</a></p>
+
+            

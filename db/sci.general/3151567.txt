@@ -1,0 +1,8 @@
+From: Mara Johnson-Groh@www.sciencenews.org
+Newsgroups: sci.general
+Subject: A quantum computing milestone is immediately challenged by a supercomputer
+Date: Wed, 12 Mar 2025 11:08:12 -0500
+Message-ID: <kAYFrB@www.sciencenews.org>
+Author: Mara Johnson-Groh
+
+A quantum processor solved a problem in 20 minutes that would take a supercomputer millions of years. A supercomputer then did a part of it in about 2 hours. 

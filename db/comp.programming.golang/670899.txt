@@ -1,0 +1,8 @@
+From: /u/jerf@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Frequently Asked Questions
+Date: Tue, 10 Dec 2024 10:42:22 -0600
+Message-ID: <LSNlYn@www.reddit.com>
+Author: /u/jerf
+
+<!-- SC_OFF --><div class="md"><p>The Golang subreddit maintains a list of <a href="https://www.reddit.com/r/golang/wiki/r_golang_faqs/">answers to frequently asked questions</a>. This allows you to get instant answers to these questions.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/jerf"> /u/jerf </a> <br/> <span><a href="https://www.reddit.com/r/golang/comments/1hb5zz7/frequently_asked_questions/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1hb5zz7/frequently_asked_questions/">[comments]</a></span>

@@ -1,0 +1,8 @@
+From: /u/lasabiduria@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: How is Go better for graph processing as mentioned in this typescript-go post?
+Date: Thu, 13 Mar 2025 04:36:39 -0500
+Message-ID: <p2m203@www.reddit.com>
+Author: /u/lasabiduria
+
+<!-- SC_OFF --><div class="md"><p>In this <a href="https://github.com/microsoft/typescript-go/discussions/411">GitHub post</a> where they discuss why Microsoft chose Go for Typescript, Ryan Cavanaugh mentioned:</p> <blockquote> <p>We also have an unusually large amount of graph processing, specifically traversing trees in both upward and downward walks involving polymorphic nodes. Go does an excellent job of making this ergonomic, especially in the context of needing to resemble the JavaScript version of the code.</p> </blockquote> <p>Can someone explain why this is the case? I am new to Go lang and still learning.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lasabiduria"> /u/lasabiduria </a> <br/> <span><a href="https://www.reddit.com/r/golang/comments/1ja84wj/how_is_go_better_for_graph_processing_as/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1ja84wj/how_is_go_better_for_graph_processing_as/">[comments]</a></span>

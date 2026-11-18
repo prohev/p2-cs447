@@ -1,0 +1,8 @@
+From: /u/Keavon@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: Graphite: Image Editing as a Syntax Tree (with Keavon Chambers & Dennis Kobert) [Developer Voices podcast]
+Date: Thu, 13 Mar 2025 21:29:05 -0500
+Message-ID: <n7rfjT@www.reddit.com>
+Author: /u/Keavon
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Keavon"> /u/Keavon </a> <br/> <span><a href="https://www.youtube.com/watch?v=ZUbcwUC5lxA">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jatn69/graphite_image_editing_as_a_syntax_tree_with/">[comments]</a></span>

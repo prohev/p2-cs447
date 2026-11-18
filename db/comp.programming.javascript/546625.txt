@@ -1,0 +1,8 @@
+From: /u/coder_et@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: [AskJS] Play button with a slash when trying to play a .MOV on iPhone
+Date: Fri, 14 Mar 2025 09:48:45 -0500
+Message-ID: <aL3dOj@www.reddit.com>
+Author: /u/coder_et
+
+<!-- SC_OFF --><div class="md"><p>I am making a video site similar to tiktok or instagram reels that autoplays the next video once the last video has played.</p> <p>This is working on web on google chrome, however, when I load the Safari or Google Chrome app on my phone I see a play button with a slash through it.</p> <p>Does anyone know best practices for using videos on iPhone so that they play in a similar way to them playing on the web / how I can get my videos to play on mobile? Thanks a bunch.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/coder_et"> /u/coder_et </a> <br/> <span><a href="https://www.reddit.com/r/javascript/comments/1jb5nds/askjs_play_button_with_a_slash_when_trying_to/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1jb5nds/askjs_play_button_with_a_slash_when_trying_to/">[comments]</a></span>

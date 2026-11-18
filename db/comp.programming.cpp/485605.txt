@@ -1,0 +1,8 @@
+From: /u/zl0bster@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: What is current state of modules in large companies that pay many millions per year in compile costs/developer productivity?
+Date: Fri, 14 Mar 2025 11:41:26 -0500
+Message-ID: <5XnBLR@www.reddit.com>
+Author: /u/zl0bster
+
+<!-- SC_OFF --><div class="md"><p>One thing that never made sense to me is that delay in modules implementations seems so expensive for huge tech companies, that it would almost be cheaper for them to donate money to pay for it, even ignoring the PR benefits of &quot;module support funded by X&quot;. </p> <p>So I wonder if they already have some internal equivalent, are happy with PCH, ccache, etc.</p> <p>I do not expect people to risk get fired by leaking internal information, but I presume a lot of this is well known in the industry so it is not some super sensitive info.</p> <p>I know this may sound like naive question, but I am really confused that even companies that have thousands of C++ devs do not care to fund faster/cheaper compiles. Even if we ignore huge savings on compile costs speeding up compile makes devs a tiny bit more productive. When you have thousands of devs more productive that quickly adds up to something worth many millions. </p> <p>P.S. I know PCH/ccache and modules are not same thing, but they target some of same painpoints. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/zl0bster"> /u/zl0bster </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1jb8acg/what_is_current_state_of_modules_in_large/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1jb8acg/what_is_current_state_of_modules_in_large/">[comments]</a></span>

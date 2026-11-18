@@ -1,0 +1,8 @@
+From: /u/brightgao@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: comboBoxSearch: A Single-header Library to Easily Create a Search Suggestions System for Win32 comboBoxes
+Date: Fri, 07 Mar 2025 16:46:51 -0600
+Message-ID: <5JBLxA@www.reddit.com>
+Author: /u/brightgao
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/brightgao"> /u/brightgao </a> <br/> <span><a href="https://github.com/brightgao1/comboBoxSearch">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j62kv8/comboboxsearch_a_singleheader_library_to_easily/">[comments]</a></span>

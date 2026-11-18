@@ -1,0 +1,8 @@
+From: /u/Puzzleheaded-Gear334@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: Is GSL still relevant?
+Date: Tue, 11 Mar 2025 19:55:15 -0500
+Message-ID: <FVLnFt@www.reddit.com>
+Author: /u/Puzzleheaded-Gear334
+
+<!-- SC_OFF --><div class="md"><p>Hello! I&#39;ve started work on modernizing a hobby project I wrote many years ago. My project was written to the C++98 standard, but I would like to update it to use more modern practices that take advantage of the advances in C++ since the early days. I&#39;m using Visual Studio on Windows as my development platform.</p> <p>Visual Studio has many suggestions for improvements but routinely suggests using GSL classes/templates. I&#39;m not familiar with GSL. After looking into it, I get the impression that many (most? all?) of its components have been or soon will be superseded by Standard C++ features and library components. Do you think that&#39;s an accurate assessment? Do people still use GSL? I&#39;m trying to understand its relationship with the broader C++ ecosystem.</p> <p>Although I&#39;m currently on the Windows platform, I would like to eventually compile my project on Linux (with GCC) and macOS (with Clang). Does that rule out GSL? GSL is supposedly cross-platform, but I&#39;m not sure how realistic that is.</p> <p>Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Puzzleheaded-Gear334"> /u/Puzzleheaded-Gear334 </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1j96u8y/is_gsl_still_relevant/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j96u8y/is_gsl_still_relevant/">[comments]</a></span>

@@ -1,0 +1,8 @@
+From: /u/mrjoker803@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: feedback about library
+Date: Sun, 09 Mar 2025 19:17:12 -0500
+Message-ID: <2fIjDC@www.reddit.com>
+Author: /u/mrjoker803
+
+<!-- SC_OFF --><div class="md"><p>For the last two years, I&#39;ve felt like I&#39;m stuck in Groundhog Day with my career, so much so that looking at code sometimes made me want to puke. A friend pushed me to start a pet project to beak out of the funk, and what started as a little experiment turned into a library.</p> <p>This is my first real dive into the world of templates, and honestly, I&#39;m still not sure about some design choices. I&#39;d really appreciate any type of feedback you can throw my way.</p> <p>A bit of context, it&#39;s a color conversion library build around a simple API, and its modular so you can build and link the parts you need. There is still stuff i want to add but this feels like the right time to see how its turning out it gets bloated.</p> <p><a href="https://github.com/neg-c/psm">https://github.com/neg-c/psm</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/mrjoker803"> /u/mrjoker803 </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1j7luu3/feedback_about_library/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j7luu3/feedback_about_library/">[comments]</a></span>

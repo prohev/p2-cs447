@@ -1,0 +1,8 @@
+From: /u/Mysterious-Oven-9857@www.reddit.com
+Newsgroups: comp.programming.python, reddit
+Subject: Project architecure for streamlit/Data Apps
+Date: Fri, 14 Mar 2025 11:38:37 -0500
+Message-ID: <z3iMSH@www.reddit.com>
+Author: /u/Mysterious-Oven-9857
+
+<!-- SC_OFF --><div class="md"><p>Hi there, I&#39;m a data scientist working mostly with Streamlit to build data apps. </p> <p>Recently the requests for solutions that requires a more user friendly interface for data/ai visualization has grown significantly at my job. Enough to make my manager realize that the deployment of such applications requires a robust standard (process). </p> <p>As someone with a degree on computer science some of the most common project architecture doesn&#39;t seems to fit our use cases. Making me curious about the most used projects architecture for those kind of solutions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Mysterious-Oven-9857"> /u/Mysterious-Oven-9857 </a> <br/> <span><a href="https://www.reddit.com/r/Python/comments/1jb880y/project_architecure_for_streamlitdata_apps/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Python/comments/1jb880y/project_architecure_for_streamlitdata_apps/">[comments]</a></span>

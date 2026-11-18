@@ -1,0 +1,8 @@
+From: /u/drakedemon@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: I made a job board aggregator that uses LLMs to find JavaScript jobs with your exact stack
+Date: Thu, 13 Mar 2025 10:16:07 -0500
+Message-ID: <gjxCQi@www.reddit.com>
+Author: /u/drakedemon
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/drakedemon"> /u/drakedemon </a> <br/> <span><a href="https://github.com/beastx-ro/first2apply">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1jaec67/i_made_a_job_board_aggregator_that_uses_llms_to/">[comments]</a></span>

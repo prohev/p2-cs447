@@ -1,0 +1,8 @@
+From: /u/hummusexe@www.reddit.com
+Newsgroups: comp.programming.python, reddit
+Subject: Network Connector Program
+Date: Thu, 13 Mar 2025 10:45:17 -0500
+Message-ID: <2NAebz@www.reddit.com>
+Author: /u/hummusexe
+
+<!-- SC_OFF --><div class="md"><p>I&#39;m super new to python, but ive been studying a lot of cybersecurity stuff and I wante to try and write a script that just connects one computer to another. My understanding is that you need some kind of connection to another computer in order to acces it, so this program would just speedrun that i guess. </p> <p>maybe a lame idea, but id love for a more skilled programmer to give their input. thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/hummusexe"> /u/hummusexe </a> <br/> <span><a href="https://www.reddit.com/r/Python/comments/1jaf0wa/network_connector_program/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Python/comments/1jaf0wa/network_connector_program/">[comments]</a></span>

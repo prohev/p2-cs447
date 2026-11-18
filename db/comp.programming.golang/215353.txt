@@ -1,0 +1,8 @@
+From: /u/Spondora2@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: I made goAPIG, a GET API tester.
+Date: Fri, 14 Mar 2025 13:35:35 -0500
+Message-ID: <r0IuLa@www.reddit.com>
+Author: /u/Spondora2
+
+<!-- SC_OFF --><div class="md"><p>Hello everyone,<br/> I’ve created a simple tool called <strong>goAPIG</strong>. It’s a small utility designed to help you test APIs using the GET method.</p> <p>I’m aware there are tools like Insomnia or Postman, but if you need to test multiple endpoints, it can be time-consuming. With this tool, you can customize a <code>config.yaml</code> file and list all the APIs you want to test. When you run the code, it generates a minimal webpage where you can view all the APIs and their responses.</p> <p>I hope you find this useful! :)</p> <p><a href="https://github.com/sponkurtus2/goAPIG/tree/main">sponkurtus2/goAPIG</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Spondora2"> /u/Spondora2 </a> <br/> <span><a href="https://www.reddit.com/r/golang/comments/1jbat1i/i_made_goapig_a_get_api_tester/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jbat1i/i_made_goapig_a_get_api_tester/">[comments]</a></span>

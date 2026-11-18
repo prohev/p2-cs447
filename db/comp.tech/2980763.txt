@@ -1,0 +1,10 @@
+From: Rebecca Bellan@www.techcrunch.com
+Newsgroups: comp.tech
+Subject: Tern AI’s low-cost GPS alternative actually works
+Date: Fri, 14 Mar 2025 13:13:57 -0500
+Message-ID: <fGLzyi@www.techcrunch.com>
+Author: Rebecca Bellan
+
+<p>We’ve all experienced that moment of frustration when the GPS glitches and you miss an exit on the highway. The team at Tern AI, which is building a low-cost GPS alternative, says that’s because the current technology is limited by its reliance on satellite positioning.  Tern AI says it has figured out how to locate [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+

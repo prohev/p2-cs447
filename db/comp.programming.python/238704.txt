@@ -1,0 +1,8 @@
+From: /u/Whole-Assignment6240@www.reddit.com
+Newsgroups: comp.programming.python, reddit
+Subject: CocoIndex: Open source ETL to index fresh data for AI, like LEGO
+Date: Fri, 14 Mar 2025 11:15:56 -0500
+Message-ID: <thWB8x@www.reddit.com>
+Author: /u/Whole-Assignment6240
+
+<!-- SC_OFF --><div class="md"><h1>What my project does</h1> <p>Cocoindex is an ETL framework to index data for AI, such as semantic search, retrieval-augmented generation (RAG); with realtime incremental updates. Core in Rust with Python bindings.</p> <h1>Target Audience</h1> <ul> <li>Developers building data pipelines for RAG or semantic search.</li> </ul> <h1>Comparison</h1> <p>Compare with existing efforts, the main highlights of us is that we support custom logic and realtime incremental updates at the same time for data indexing (with heavy transformations, like chunking, embedding, KG Tripple extraction) and takes care of the data freshness issue out-of-box.</p> <p><strong>Available on PyPI:</strong> <code>pip install cocoindex</code><br/> <strong>GitHub</strong>: <a href="https://github.com/cocoindex-io/cocoindex">https://github.com/cocoindex-io/cocoindex</a></p> <p>This is a project share post. Sincerely looking forward to learn from your feedback :)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Whole-Assignment6240"> /u/Whole-Assignment6240 </a> <br/> <span><a href="https://www.reddit.com/r/Python/comments/1jb7oya/cocoindex_open_source_etl_to_index_fresh_data_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/Python/comments/1jb7oya/cocoindex_open_source_etl_to_index_fresh_data_for/">[comments]</a></span>

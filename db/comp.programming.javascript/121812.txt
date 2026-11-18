@@ -1,0 +1,8 @@
+From: /u/DanielRosenwasser@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: A 10x Faster TypeScript
+Date: Tue, 11 Mar 2025 09:32:00 -0500
+Message-ID: <eWiyBm@www.reddit.com>
+Author: /u/DanielRosenwasser
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/DanielRosenwasser"> /u/DanielRosenwasser </a> <br/> <span><a href="https://devblogs.microsoft.com/typescript/typescript-native-port/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j8s441/a_10x_faster_typescript/">[comments]</a></span>

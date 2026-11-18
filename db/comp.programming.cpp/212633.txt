@@ -1,0 +1,8 @@
+From: /u/BraunBerry@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: Usage of underscores in identifiers (in modern C++)
+Date: Thu, 13 Mar 2025 13:48:15 -0500
+Message-ID: <WrtN35@www.reddit.com>
+Author: /u/BraunBerry
+
+<!-- SC_OFF --><div class="md"><p>In one of my projects, I heavily use underscores in identifiers. None of the crazy stuff like &quot;a leading underscore followed by a capital letter&quot;, that is so strongly reserved for the implementation. But many of my identifiers end with underscores or contain underscores in the middle.</p> <p>Seems like every developer has a different opinion about this, and in every discussion, the holy ANSI-C standard is cited:</p> <blockquote> <p>The use of two underscores (`__&#39;) in identifiers is reserved for the compiler&#39;s internal use according to the ANSI-C standard.</p> </blockquote> <p>However, ANSI-C defines also other restrictions, that seem a little bit outdated to me. In my project, I use C++20, soon switching to C++23; the code is C++-styled and not C-styled like in the glorious old days of programming...</p> <p>Just wanted to hear your thoughts about the underscore topic. Do you use it? If not, are there reasonable points against it, nowadays?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/BraunBerry"> /u/BraunBerry </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1jajhe0/usage_of_underscores_in_identifiers_in_modern_c/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1jajhe0/usage_of_underscores_in_identifiers_in_modern_c/">[comments]</a></span>

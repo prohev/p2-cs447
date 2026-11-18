@@ -1,0 +1,8 @@
+From: /u/Glass_Gur_5590@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: GCC support std module with CMake 4.0 Now!
+Date: Mon, 10 Mar 2025 05:39:54 -0500
+Message-ID: <Ggfxt4@www.reddit.com>
+Author: /u/Glass_Gur_5590
+
+<!-- SC_OFF --><div class="md"><p>As CMake 4.0.0 and GCC-15 support, we could use cmake like this:</p> <p><code>cmakelists.txt</code>: ```cmake cmake_minimum_required(VERSION 4.0.0) set(CMAKE_CXX_STANDARD 23) set(CMAKE_EXPERIMENTAL_CXX_IMPORT_STD &quot;a9e1cf81-9932-4810-974b-6eccaf14e457&quot;)</p> <p>set(CMAKE_CXX_STANDARD_REQUIRED OFF) set(CMAKE_CXX_MODULE_STD 1)</p> <p>project(cpptest VERSION 0.1.0 LANGUAGES CXX)</p> <p>add_executable(cpptest main.cpp) ```</p> <p><code>main.cpp</code> <code>cpp import std; int main(){ std::println(&quot;Hello world!&quot;); } </code></p> <p>Wonderful. Right?</p> <p>Tips: You need to do some fixes in Ubuntu, see <a href="https://stackoverflow.com/questions/79238893/import-std-module-with-gcc-15/79488663">this</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Glass_Gur_5590"> /u/Glass_Gur_5590 </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1j7vplc/gcc_support_std_module_with_cmake_40_now/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j7vplc/gcc_support_std_module_with_cmake_40_now/">[comments]</a></span>

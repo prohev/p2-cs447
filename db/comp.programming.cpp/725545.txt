@@ -1,0 +1,8 @@
+From: /u/pavel_v@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: Polymorphic, Defaulted Equality
+Date: Thu, 13 Mar 2025 04:10:07 -0500
+Message-ID: <zLumNS@www.reddit.com>
+Author: /u/pavel_v
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/pavel_v"> /u/pavel_v </a> <br/> <span><a href="https://brevzin.github.io/c++/2025/03/12/polymorphic-equals/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1ja7su9/polymorphic_defaulted_equality/">[comments]</a></span>

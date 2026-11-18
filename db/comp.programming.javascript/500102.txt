@@ -1,0 +1,8 @@
+From: /u/rafaelcamargo@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: [AskJS] Any website that aggregates remote frontend job opportunities from several other sites (remote ok, we work remotely, etc)?
+Date: Fri, 14 Mar 2025 15:48:24 -0500
+Message-ID: <0uozJ4@www.reddit.com>
+Author: /u/rafaelcamargo
+
+<!-- SC_OFF --><div class="md"><p>These days, there are tons of sites that post remote frontend job opportunities (they even show up in GitHub repos!). But keeping track of all these sources takes a lot of time. Does anyone know if there’s already an aggregator that does this job for us?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/rafaelcamargo"> /u/rafaelcamargo </a> <br/> <span><a href="https://www.reddit.com/r/javascript/comments/1jbdy6x/askjs_any_website_that_aggregates_remote_frontend/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1jbdy6x/askjs_any_website_that_aggregates_remote_frontend/">[comments]</a></span>

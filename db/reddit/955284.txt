@@ -1,0 +1,8 @@
+From: /u/One_Mess_1093@www.reddit.com
+Newsgroups: comp.programming.golang, reddit
+Subject: Licensify: Manage Digital Licenses Securely 🔐 - Looking for feedback
+Date: Thu, 13 Mar 2025 22:35:33 -0500
+Message-ID: <oXnC1R@www.reddit.com>
+Author: /u/One_Mess_1093
+
+<table> <tr><td> <a href="https://www.reddit.com/r/golang/comments/1jauv58/licensify_manage_digital_licenses_securely/"> <img src="https://external-preview.redd.it/p5e5g6-fNPyDNF4IuAnPXqvBt0Aiw4RyGPvVw9mcX08.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=500d91952713b79356a1be7a582445c36539ef80" alt="Licensify: Manage Digital Licenses Securely 🔐 - Looking for feedback" title="Licensify: Manage Digital Licenses Securely 🔐 - Looking for feedback" /> </a> </td><td> &#32; submitted by &#32; <a href="https://www.reddit.com/user/One_Mess_1093"> /u/One_Mess_1093 </a> <br/> <span><a href="https://github.com/Devpro-Software/licensify">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/golang/comments/1jauv58/licensify_manage_digital_licenses_securely/">[comments]</a></span> </td></tr></table>

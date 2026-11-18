@@ -1,0 +1,8 @@
+From: Nate Nelson@threatpost.com
+Newsgroups: comp.security
+Subject: Cybercriminals Are Selling Access to Chinese Surveillance Cameras
+Date: Thu, 25 Aug 2022 13:47:15 -0500
+Message-ID: <GocT3G@threatpost.com>
+Author: Nate Nelson
+
+Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.

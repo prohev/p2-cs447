@@ -1,0 +1,8 @@
+From: /u/AKCord_@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: [AskJS] Is MongoDB the Best Choice for a Currency System?
+Date: Wed, 12 Mar 2025 23:33:49 -0500
+Message-ID: <rm5VHZ@www.reddit.com>
+Author: /u/AKCord_
+
+<!-- SC_OFF --><div class="md"><p>I’ve been using MongoDB to handle real-world value transactions, but I’m starting to wonder if it’s the best option out there. Since consistency, security, and transaction safety are critical. </p> <p>Would love advices from people who’ve built similar systems!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AKCord_"> /u/AKCord_ </a> <br/> <span><a href="https://www.reddit.com/r/javascript/comments/1ja42wb/askjs_is_mongodb_the_best_choice_for_a_currency/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1ja42wb/askjs_is_mongodb_the_best_choice_for_a_currency/">[comments]</a></span>

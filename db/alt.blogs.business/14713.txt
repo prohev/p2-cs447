@@ -1,0 +1,8 @@
+From: Ben Thompson@stratechery.com
+Newsgroups: alt.blogs.business
+Subject: More Chip Curbs?, Google LLM Status Check
+Date: Wed, 26 Feb 2025 08:33:43 -0600
+Message-ID: <5Wovq3@stratechery.com>
+Author: Ben Thompson
+
+Ending the chip ban might be a mistake; I just hope people pushing for more realize that could be wrong as well. Then, Google's current position with LLMs, and the importance of GCP.

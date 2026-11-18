@@ -1,0 +1,8 @@
+From: /u/remodeus@www.reddit.com
+Newsgroups: comp.programming.javascript, reddit
+Subject: Notemod - New features added - Creating Tasks & Synchronization
+Date: Tue, 11 Mar 2025 20:17:33 -0500
+Message-ID: <Av4Zhu@www.reddit.com>
+Author: /u/remodeus
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/remodeus"> /u/remodeus </a> <br/> <span><a href="https://github.com/orayemre/Notemod">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/javascript/comments/1j97cgy/notemod_new_features_added_creating_tasks/">[comments]</a></span>

@@ -1,0 +1,8 @@
+From: /u/zachm@www.reddit.com
+Newsgroups: comp.programming.general, reddit
+Subject: Go import cycles: three strategies for how to deal with them, and a plea for a fourth
+Date: Fri, 14 Mar 2025 10:51:54 -0500
+Message-ID: <qkPSTD@www.reddit.com>
+Author: /u/zachm
+
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/zachm"> /u/zachm </a> <br/> <span><a href="https://www.dolthub.com/blog/2025-03-14-go-import-cycle-strategies/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/programming/comments/1jb74c0/go_import_cycles_three_strategies_for_how_to_deal/">[comments]</a></span>

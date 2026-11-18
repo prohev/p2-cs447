@@ -1,0 +1,8 @@
+From: /u/Nasuraki@www.reddit.com
+Newsgroups: comp.programming.rust, reddit
+Subject: Web, IOS & Android. Best rust setup?
+Date: Fri, 14 Mar 2025 04:24:00 -0500
+Message-ID: <rH9Gfh@www.reddit.com>
+Author: /u/Nasuraki
+
+<!-- SC_OFF --><div class="md"><p>Ok so i mainly do backend stuff. I’m completely new to frontend and i would like to keep it all in rust. </p> <p>What crates should i look into to eventually make an app that runs on Android, IOS and web with the same GUI. </p> <p>I do like pure CSS styling and i’m kinda hating this inline tailwind stuff as keep the styling clearly separate seems like a better separation of responsibility. </p> <p>For IOS and Android i would eventually want to access health data on the users device. </p> <p>For the web, i don’t need crazy SEO optimisation or anything. Everything is behind a password. I really just one gui look and codebase. </p> <p>I don’t need a super duper something response frontend. I’m looking for something that’s easy to develop cross platform and with decent styling options. </p> <p>So what do you guys recommend ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Nasuraki"> /u/Nasuraki </a> <br/> <span><a href="https://www.reddit.com/r/rust/comments/1jazvwd/web_ios_android_best_rust_setup/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/rust/comments/1jazvwd/web_ios_android_best_rust_setup/">[comments]</a></span>

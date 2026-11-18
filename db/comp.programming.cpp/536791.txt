@@ -1,0 +1,8 @@
+From: /u/megayippie@www.reddit.com
+Newsgroups: comp.programming.cpp, reddit
+Subject: Question: why are you for/against linalg in the std?
+Date: Fri, 07 Mar 2025 11:07:45 -0600
+Message-ID: <T4dFJX@www.reddit.com>
+Author: /u/megayippie
+
+<!-- SC_OFF --><div class="md"><p>Please let me know.</p> <p>My take: the blas/lapack system is The standard, and it works. It&#39;s known. You can&#39;t do any of this stuff naively with acceptable performance.</p> <p>Everyone and their grandmother knows you write your own stuff if you know the exact size or exact geometry of the problem. Most won&#39;t have to.</p> <p>We already have the weird execution flags that can be used to overloaded, and C++ has types. It would be fantastic for overloads that don&#39;t exist today but everyone has written themselves anyways (like real eigenvalues).</p> <p>So why are you against making the worldwide standard for linalg part of the C++ standard? Any clear arguments for I&#39;ve missed it you wish to fix?</p> <p>Thank you all and have a nice weekend!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/megayippie"> /u/megayippie </a> <br/> <span><a href="https://www.reddit.com/r/cpp/comments/1j5tr6b/question_why_are_you_foragainst_linalg_in_the_std/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cpp/comments/1j5tr6b/question_why_are_you_foragainst_linalg_in_the_std/">[comments]</a></span>
